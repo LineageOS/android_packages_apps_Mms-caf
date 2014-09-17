@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_8874ce9c",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 204,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-09-17T10:55:06Z",
+      "side": 1,
+      "message": "no need fot capital letters on every second word....\n\n- Subscription settings",
+      "revId": "93d735c6ee7b00fcae2c7027178a368fd5d3d339",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_68797293",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 207,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-09-17T10:55:06Z",
+      "side": 1,
+      "message": "- Manage subscriptions",
+      "revId": "93d735c6ee7b00fcae2c7027178a368fd5d3d339",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_c86ec6c8",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 210,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-09-17T10:55:06Z",
+      "side": 1,
+      "message": "- SMSC number",
+      "revId": "93d735c6ee7b00fcae2c7027178a368fd5d3d339",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
