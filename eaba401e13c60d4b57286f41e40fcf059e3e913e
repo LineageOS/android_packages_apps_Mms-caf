@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dab17558_77908896",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 2513,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-11-20T14:27:17Z",
+      "side": 1,
+      "message": "is this necessary, given that we create a new overlay view instance every time in onCreate?",
+      "revId": "eaba401e13c60d4b57286f41e40fcf059e3e913e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dab17558_37ca8050",
+        "filename": "src/com/android/mms/ui/zoom/ZoomGestureOverlayView.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 140,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-11-20T14:27:17Z",
+      "side": 1,
+      "message": "using a cumulative factor like this links the scale to the speed that you move your fingers rather than the distance.  it seems to expand to the max with barely any movement when I do it.  have you considered making the scale proportional to the distance and treat it as a \"total scale\" factor instead of \"additional scale\"?",
+      "revId": "eaba401e13c60d4b57286f41e40fcf059e3e913e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dab17558_775528c5",
+        "filename": "src/com/android/mms/ui/zoom/ZoomGestureOverlayView.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 216,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-11-20T14:27:17Z",
+      "side": 1,
+      "message": "what is the reason for posting a runnable here?  is dispatchTouchEvent not called on the ui thread?  I noticed we are doing it in ZoomMessageListItem.handleZoomWithScale also",
+      "revId": "eaba401e13c60d4b57286f41e40fcf059e3e913e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dab17558_97ba4cbf",
+        "filename": "src/com/android/mms/ui/zoom/ZoomMessageListItem.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-11-20T14:27:17Z",
+      "side": 1,
+      "message": "I would recommend making the min font size whatever the original size of the text was.  This way it is easy to put the text back to its original size.  I don\u0027t think zooming out to make the text smaller is a case we really need to support.",
+      "revId": "eaba401e13c60d4b57286f41e40fcf059e3e913e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
