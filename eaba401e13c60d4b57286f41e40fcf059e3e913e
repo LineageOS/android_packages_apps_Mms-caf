@@ -19,6 +19,23 @@
     },
     {
       "key": {
+        "uuid": "dab17558_37f8c07c",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 2513,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2014-11-20T14:47:16Z",
+      "side": 1,
+      "message": "At this point you are in the activity scope.  Yes we create a new view instance and a new activity.  The view I guess gets killed as well, but its cleaning up after itself in this case by removing the reference.  I feel like it is a proper thing to do.",
+      "revId": "eaba401e13c60d4b57286f41e40fcf059e3e913e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "dab17558_37ca8050",
         "filename": "src/com/android/mms/ui/zoom/ZoomGestureOverlayView.java",
         "patchSetId": 3
@@ -47,6 +64,24 @@
       "writtenOn": "2014-11-20T14:27:17Z",
       "side": 1,
       "message": "what is the reason for posting a runnable here?  is dispatchTouchEvent not called on the ui thread?  I noticed we are doing it in ZoomMessageListItem.handleZoomWithScale also",
+      "revId": "eaba401e13c60d4b57286f41e40fcf059e3e913e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dab17558_972fecf5",
+        "filename": "src/com/android/mms/ui/zoom/ZoomGestureOverlayView.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 216,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2014-11-20T14:47:16Z",
+      "side": 1,
+      "message": "So the way the ui handler works is it performs actions in order, so this is posting it into that list and allowing the dispatch to complete and move on.  The objective is to eliminate ui stutter.",
+      "parentUuid": "dab17558_775528c5",
       "revId": "eaba401e13c60d4b57286f41e40fcf059e3e913e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
