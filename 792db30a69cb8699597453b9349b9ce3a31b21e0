@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dab17558_34543e53",
+        "filename": "src/com/android/mms/ui/MessageListItem.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2014-11-20T11:23:53Z",
+      "side": 1,
+      "message": "Unused import",
+      "revId": "792db30a69cb8699597453b9349b9ce3a31b21e0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dab17558_544bc2b0",
+        "filename": "src/com/android/mms/ui/MessageListView.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2014-11-20T11:23:53Z",
+      "side": 1,
+      "message": "Duplicated function",
+      "revId": "792db30a69cb8699597453b9349b9ce3a31b21e0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
