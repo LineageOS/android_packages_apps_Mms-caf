@@ -36,6 +36,41 @@
     },
     {
       "key": {
+        "uuid": "dab17558_daafd992",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 2513,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-11-20T16:08:20Z",
+      "side": 1,
+      "message": "I suppose it doesn\u0027t hurt... as a matter of style i prefer to avoid unnecessary cleanup, but i\u0027ll leave it up to you",
+      "parentUuid": "dab17558_37f8c07c",
+      "revId": "eaba401e13c60d4b57286f41e40fcf059e3e913e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dab17558_3a4b852d",
+        "filename": "src/com/android/mms/ui/zoom/ZoomGestureOverlayView.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-11-20T16:08:20Z",
+      "side": 1,
+      "message": "20.0 seems a little smoother",
+      "revId": "eaba401e13c60d4b57286f41e40fcf059e3e913e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "dab17558_37ca8050",
         "filename": "src/com/android/mms/ui/zoom/ZoomGestureOverlayView.java",
         "patchSetId": 3
@@ -99,6 +134,24 @@
       "writtenOn": "2014-11-20T14:27:17Z",
       "side": 1,
       "message": "I would recommend making the min font size whatever the original size of the text was.  This way it is easy to put the text back to its original size.  I don\u0027t think zooming out to make the text smaller is a case we really need to support.",
+      "revId": "eaba401e13c60d4b57286f41e40fcf059e3e913e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dab17558_fa40dd09",
+        "filename": "src/com/android/mms/ui/zoom/ZoomMessageListItem.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-11-20T16:08:20Z",
+      "side": 1,
+      "message": "or just bump to 14",
+      "parentUuid": "dab17558_97ba4cbf",
       "revId": "eaba401e13c60d4b57286f41e40fcf059e3e913e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
