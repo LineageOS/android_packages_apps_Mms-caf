@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dab17558_0babd18a",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 5443,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2014-11-21T09:37:54Z",
+      "side": 1,
+      "message": "Could use the instance of MessageListAdapter (mMsgListAdapter) here? Also the cursor could be null.",
+      "revId": "9a16522144b8b58613f3374e9644b29e5c6833c1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
