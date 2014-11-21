@@ -52,6 +52,24 @@
       "revId": "9a16522144b8b58613f3374e9644b29e5c6833c1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dab17558_cb78a9fb",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 5443,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2014-11-21T10:59:07Z",
+      "side": 1,
+      "message": "It extends CursorAdapter.  You can swap or init with null.  Currently it probably will not be null, but if someone changes something in the future, this could be a weak link and throw a fatal NPE crashing the whole application.",
+      "parentUuid": "dab17558_ab8c4536",
+      "revId": "9a16522144b8b58613f3374e9644b29e5c6833c1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
