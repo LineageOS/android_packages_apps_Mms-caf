@@ -34,6 +34,24 @@
       "revId": "9a16522144b8b58613f3374e9644b29e5c6833c1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dab17558_ab8c4536",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 5443,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-11-21T10:04:13Z",
+      "side": 1,
+      "message": "Will update to use mMsgListAdapter.  I don\u0027t think cursor can be null since we are referring to a selected item.  At least that is the assumption we are making throughout (see showMessageDetail, saveAttachment, etc)",
+      "parentUuid": "dab17558_0babd18a",
+      "revId": "9a16522144b8b58613f3374e9644b29e5c6833c1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
