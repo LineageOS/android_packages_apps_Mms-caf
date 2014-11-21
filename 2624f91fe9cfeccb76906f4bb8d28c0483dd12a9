@@ -16,6 +16,24 @@
       "revId": "2624f91fe9cfeccb76906f4bb8d28c0483dd12a9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dab17558_eb712de2",
+        "filename": "res/values/dimens.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-11-21T11:27:42Z",
+      "side": 1,
+      "message": "needs moar Z",
+      "parentUuid": "dab17558_6ba7fd4f",
+      "revId": "2624f91fe9cfeccb76906f4bb8d28c0483dd12a9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
