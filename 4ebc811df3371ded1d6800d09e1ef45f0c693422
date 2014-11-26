@@ -69,6 +69,24 @@
       "revId": "4ebc811df3371ded1d6800d09e1ef45f0c693422",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_da17d252",
+        "filename": "res/values/styles.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-11-26T13:15:13Z",
+      "side": 1,
+      "message": "I see.  Ok well let\u0027s run with this for now then.  If I can figure out a fix in the theme i will do that, I have feeling other apps will run into the same issue.",
+      "parentUuid": "bab6814e_5a25a2c0",
+      "revId": "4ebc811df3371ded1d6800d09e1ef45f0c693422",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
