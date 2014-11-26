@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "bab6814e_3a225eba",
+        "filename": "res/values/dimens.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1448
+      },
+      "writtenOn": "2014-11-26T13:11:41Z",
+      "side": 1,
+      "message": "Yeah. I\u0027ll do that. The Google messenger app appears to be 5dp.",
+      "parentUuid": "bab6814e_9a58aa58",
+      "revId": "4ebc811df3371ded1d6800d09e1ef45f0c693422",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bab6814e_ba35aef8",
         "filename": "res/values/styles.xml",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2014-11-26T13:08:54Z",
       "side": 1,
       "message": "I was looking into this problem earlier and thinking maybe this is a bug with the material theme?  We should not need to explicitly set the text to white when using the dark action bar (or at least we didn\u0027t have to do that when using holo).  Maybe this can be fixed in the framework?",
+      "revId": "4ebc811df3371ded1d6800d09e1ef45f0c693422",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_5a25a2c0",
+        "filename": "res/values/styles.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1448
+      },
+      "writtenOn": "2014-11-26T13:11:41Z",
+      "side": 1,
+      "message": "I just did what the dialer did.",
+      "parentUuid": "bab6814e_ba35aef8",
       "revId": "4ebc811df3371ded1d6800d09e1ef45f0c693422",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
