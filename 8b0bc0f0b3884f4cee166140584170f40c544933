@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "bab6814e_5fabc289",
+        "filename": "src/com/android/mms/data/Contact.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 876,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-12-03T10:54:32Z",
+      "side": 1,
+      "message": "The image isn\u0027t decoded here, it\u0027s only fetched. As loading the palette takes 300ms for a single image on my mako, I doubt it\u0027s a good idea to load _all_ of them at once (that is, delay contact loading for it).",
+      "parentUuid": "bab6814e_9fe7ea11",
+      "revId": "8b0bc0f0b3884f4cee166140584170f40c544933",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bab6814e_ffbef6d2",
         "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
         "patchSetId": 6
@@ -30,6 +48,24 @@
       "writtenOn": "2014-12-03T10:47:25Z",
       "side": 1,
       "message": "This seems to fix the caching, but I still see a noticeable delay the first time on the nexus 5 (whereas on messenger I never see a delay even on the first try).  What if we calculate the color in Contact.getContactInfo?",
+      "revId": "8b0bc0f0b3884f4cee166140584170f40c544933",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_3fb07ef4",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 1876,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-12-03T10:54:32Z",
+      "side": 1,
+      "message": "See my comment there. I profiled the timing with some log calls, and it\u0027s indeed the createPalette() call that is slow. FWIW, I see the same kind of delay with Messenger.",
+      "parentUuid": "bab6814e_ffbef6d2",
       "revId": "8b0bc0f0b3884f4cee166140584170f40c544933",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
