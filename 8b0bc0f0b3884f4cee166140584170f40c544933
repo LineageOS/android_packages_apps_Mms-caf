@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "bab6814e_df76923d",
+        "filename": "src/com/android/mms/data/Contact.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 876,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-12-03T11:24:59Z",
+      "side": 1,
+      "message": "Yeah if we delay contact loading by 300ms that is not ideal either.  What do you think about sending it to another background thread from here?",
+      "parentUuid": "bab6814e_5fabc289",
+      "revId": "8b0bc0f0b3884f4cee166140584170f40c544933",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bab6814e_ffbef6d2",
         "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
         "patchSetId": 6
@@ -66,6 +84,24 @@
       "side": 1,
       "message": "See my comment there. I profiled the timing with some log calls, and it\u0027s indeed the createPalette() call that is slow. FWIW, I see the same kind of delay with Messenger.",
       "parentUuid": "bab6814e_ffbef6d2",
+      "revId": "8b0bc0f0b3884f4cee166140584170f40c544933",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_ff93964d",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 1876,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-12-03T11:24:59Z",
+      "side": 1,
+      "message": "Perhaps mako is slow enough to show a delay no matter what, would be nice to have a seamless transition on higher end devices though.  That said, I don\u0027t want to hold up this patch by adding complexity, I would be ok with submitting what we have and potentially addressing the color transition later.",
+      "parentUuid": "bab6814e_3fb07ef4",
       "revId": "8b0bc0f0b3884f4cee166140584170f40c544933",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
