@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bab6814e_9fe7ea11",
+        "filename": "src/com/android/mms/data/Contact.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 876,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-12-03T10:47:25Z",
+      "side": 1,
+      "message": "If we calculate accent color here it should be done on the conversation list page.  This is already called in the background, and we are already doing other lengthy operations like fetching/decoding the contact image.",
+      "revId": "8b0bc0f0b3884f4cee166140584170f40c544933",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_ffbef6d2",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 1876,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-12-03T10:47:25Z",
+      "side": 1,
+      "message": "This seems to fix the caching, but I still see a noticeable delay the first time on the nexus 5 (whereas on messenger I never see a delay even on the first try).  What if we calculate the color in Contact.getContactInfo?",
+      "revId": "8b0bc0f0b3884f4cee166140584170f40c544933",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
