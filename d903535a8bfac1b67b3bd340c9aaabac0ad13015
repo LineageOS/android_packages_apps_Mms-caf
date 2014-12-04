@@ -19,6 +19,41 @@
     },
     {
       "key": {
+        "uuid": "bab6814e_986d4035",
+        "filename": "res/layout/recipients_editor.xml",
+        "patchSetId": 9
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-12-04T22:31:19Z",
+      "side": 1,
+      "message": "Yes, but I deliberately did this for two reasons:\n\n- It actually matches the examples in the material design spec (see e.g. the examples here: http://www.google.com/design/spec/layout/structure.html#structure-app-bar - I probably need to adjust the padding, though)\n- There isn\u0027t a better use for the blank space anyway, so I tried to maximize the size of the recipient input field",
+      "parentUuid": "bab6814e_78f69cd8",
+      "revId": "d903535a8bfac1b67b3bd340c9aaabac0ad13015",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_786a1c1c",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 9
+      },
+      "lineNbr": 88,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-12-04T22:31:19Z",
+      "side": 1,
+      "message": "Note to self: Kill this import.",
+      "revId": "d903535a8bfac1b67b3bd340c9aaabac0ad13015",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bab6814e_98f9c0cb",
         "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
         "patchSetId": 9
@@ -30,6 +65,24 @@
       "writtenOn": "2014-12-04T16:58:05Z",
       "side": 1,
       "message": "This seems to cause a second action bar to pop up when the action mode changes when long pressing a message.",
+      "revId": "d903535a8bfac1b67b3bd340c9aaabac0ad13015",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_d877c800",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 9
+      },
+      "lineNbr": 4261,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-12-04T22:31:19Z",
+      "side": 1,
+      "message": "Good catch. I need to set actionModeOverlay\u003dtrue for this in the theme.",
+      "parentUuid": "bab6814e_98f9c0cb",
       "revId": "d903535a8bfac1b67b3bd340c9aaabac0ad13015",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
