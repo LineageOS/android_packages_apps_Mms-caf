@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bab6814e_350a56d3",
+        "filename": "src/com/android/mms/ui/MailboxMode/MailBoxMessageList.java",
+        "patchSetId": 16
+      },
+      "lineNbr": 974,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-12-07T03:23:14Z",
+      "side": 1,
+      "message": "Oops, implementation missing here.",
+      "revId": "8d3e5892519d2411c5b71e38801a6d08861cf6e7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_9526a266",
+        "filename": "src/com/android/mms/ui/ManageMultiSelectAction.java",
+        "patchSetId": 16
+      },
+      "lineNbr": 197,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-12-07T03:23:14Z",
+      "side": 1,
+      "message": "Also need to add the select all/none menu here.",
+      "revId": "8d3e5892519d2411c5b71e38801a6d08861cf6e7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_d5202a4c",
+        "filename": "src/com/android/mms/ui/ManageSimMessages.java",
+        "patchSetId": 16
+      },
+      "lineNbr": 624,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-12-07T03:23:14Z",
+      "side": 1,
+      "message": "Another missing implementation.",
+      "revId": "8d3e5892519d2411c5b71e38801a6d08861cf6e7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
