@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9abb7d3a_954ec494",
+        "filename": "src/com/android/mms/model/SlideModel.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 148,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-12-09T12:39:24Z",
+      "side": 1,
+      "message": "remove these TEST logs, or use a real tag",
+      "revId": "442241f37632f5624ee5ac02e79cb2b9703f5402",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9abb7d3a_f85745c8",
+        "filename": "src/com/android/mms/model/SlideshowModel.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 293,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-12-09T12:39:24Z",
+      "side": 1,
+      "message": "did you mean to append to this statement rather than replace isVcard?",
+      "revId": "442241f37632f5624ee5ac02e79cb2b9703f5402",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9abb7d3a_38726d7d",
+        "filename": "src/com/android/mms/model/SlideshowModel.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 716,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2014-12-09T12:39:24Z",
+      "side": 1,
+      "message": "We probably need to add !hasICal to the other statements?  If the intention is to have exactly one attachment, it might be simpler to count how many true values we have and return count\u003d\u003d1.",
+      "revId": "442241f37632f5624ee5ac02e79cb2b9703f5402",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
