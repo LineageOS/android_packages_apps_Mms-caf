@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_54d8e41d",
+        "filename": "src/com/android/mms/model/MediaModel.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 215,
+      "author": {
+        "id": 10394
+      },
+      "writtenOn": "2014-12-13T16:30:07Z",
+      "side": 1,
+      "message": "does the mTag need to be looked at in this case like isVcard does?",
+      "revId": "cc3dea7dba2713ba2fb6ddff2cc24e216a345afc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_143c9c2e",
+        "filename": "src/com/android/mms/ui/MessageListItem.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 1008,
+      "author": {
+        "id": 10394
+      },
+      "writtenOn": "2014-12-13T16:30:07Z",
+      "side": 1,
+      "message": "remove?",
+      "revId": "cc3dea7dba2713ba2fb6ddff2cc24e216a345afc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_544624c0",
+        "filename": "src/com/android/mms/ui/MessageListItem.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 1022,
+      "author": {
+        "id": 10394
+      },
+      "writtenOn": "2014-12-13T16:30:07Z",
+      "side": 1,
+      "message": "remove?",
+      "revId": "cc3dea7dba2713ba2fb6ddff2cc24e216a345afc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
