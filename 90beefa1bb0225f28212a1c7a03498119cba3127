@@ -16,6 +16,24 @@
       "revId": "90beefa1bb0225f28212a1c7a03498119cba3127",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_5400e4aa",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2014-12-13T14:03:31Z",
+      "side": 1,
+      "message": "Will it be harder for translators ?\n\nI could make a new string, but nothing else would be using the old one.",
+      "parentUuid": "7aa08908_f40e30e4",
+      "revId": "90beefa1bb0225f28212a1c7a03498119cba3127",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
