@@ -34,6 +34,24 @@
       "revId": "90beefa1bb0225f28212a1c7a03498119cba3127",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_741a4019",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2014-12-13T14:06:05Z",
+      "side": 1,
+      "message": "Usually we add new strings when the meaning is changed, because there is no way to translate AOSP strings. The AOSP files are not uploaded to crowdin, only the CM ones.",
+      "parentUuid": "7aa08908_5400e4aa",
+      "revId": "90beefa1bb0225f28212a1c7a03498119cba3127",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
