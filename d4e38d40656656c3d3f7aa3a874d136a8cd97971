@@ -33,6 +33,23 @@
       "revId": "d4e38d40656656c3d3f7aa3a874d136a8cd97971",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_1c5dd7e9",
+        "filename": "src/com/android/mms/ui/MessageUtils.java",
+        "patchSetId": 12
+      },
+      "lineNbr": 866,
+      "author": {
+        "id": 10394
+      },
+      "writtenOn": "2014-12-17T20:44:43Z",
+      "side": 1,
+      "message": "close cursor?",
+      "revId": "d4e38d40656656c3d3f7aa3a874d136a8cd97971",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
