@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "7aa08908_1f0cac93",
+        "filename": "src/com/android/mms/ui/MessagingPreferenceActivity.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 905,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-17T10:57:54Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7aa08908_5f95943e",
+      "revId": "6f30077e9149982854954123ac60eb191b63a62c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_3f924858",
         "filename": "src/com/android/mms/ui/MessagingPreferenceActivity.java",
         "patchSetId": 5
@@ -30,6 +48,24 @@
       "writtenOn": "2014-12-17T10:38:54Z",
       "side": 1,
       "message": "setting mShouldDelete \u003d shouldRestore seems weird naming wise - is it supposed to be shouldDelete?",
+      "revId": "6f30077e9149982854954123ac60eb191b63a62c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_9f209cf9",
+        "filename": "src/com/android/mms/ui/MessagingPreferenceActivity.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 987,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-17T10:57:54Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7aa08908_3f924858",
       "revId": "6f30077e9149982854954123ac60eb191b63a62c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
