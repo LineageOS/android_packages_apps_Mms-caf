@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_5f95943e",
+        "filename": "src/com/android/mms/ui/MessagingPreferenceActivity.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 905,
+      "author": {
+        "id": 10394
+      },
+      "writtenOn": "2014-12-17T10:38:54Z",
+      "side": 1,
+      "message": "it seems like when there is a restoreFile, shouldBackup is always false, and when there is no restoreFile shouldBackup is always true - instead of potentially enabling the scenario where we get a restoreFile AND shouldBackup \u003d true, can we just base it on whether restoreFile is or isn\u0027t null and either don\u0027t have a shouldBackup flag or set it based on that instead of passing it in?",
+      "revId": "6f30077e9149982854954123ac60eb191b63a62c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_3f924858",
+        "filename": "src/com/android/mms/ui/MessagingPreferenceActivity.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 987,
+      "author": {
+        "id": 10394
+      },
+      "writtenOn": "2014-12-17T10:38:54Z",
+      "side": 1,
+      "message": "setting mShouldDelete \u003d shouldRestore seems weird naming wise - is it supposed to be shouldDelete?",
+      "revId": "6f30077e9149982854954123ac60eb191b63a62c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
