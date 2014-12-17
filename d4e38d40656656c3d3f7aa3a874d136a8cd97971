@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_fc5d6bed",
+        "filename": "res/layout/vcal_attachment_view.xml",
+        "patchSetId": 12
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2014-12-17T20:36:19Z",
+      "side": 1,
+      "message": "Not sure if we care about using dimens here.",
+      "revId": "d4e38d40656656c3d3f7aa3a874d136a8cd97971",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_dc622fad",
+        "filename": "src/com/android/mms/model/MediaModel.java",
+        "patchSetId": 12
+      },
+      "lineNbr": 216,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2014-12-17T20:36:19Z",
+      "side": 1,
+      "message": "I\u0027m not sure if the member variables are capable of null.  I think you should compare by calling equals on the constant rather than the dynamic member.",
+      "revId": "d4e38d40656656c3d3f7aa3a874d136a8cd97971",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
