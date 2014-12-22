@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_f751f90f",
+        "filename": "src/com/android/mms/quickmessage/QuickMessagePopup.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 549,
+      "author": {
+        "id": 1448
+      },
+      "writtenOn": "2014-12-22T07:45:33Z",
+      "side": 1,
+      "message": "Whitespace",
+      "revId": "e339530bfaa49f3105659cd1d41ebc456e86ddc7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
