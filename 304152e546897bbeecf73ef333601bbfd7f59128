@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_6d6538e0",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 2113,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2014-12-23T14:27:39Z",
+      "side": 1,
+      "message": "100 chars",
+      "revId": "304152e546897bbeecf73ef333601bbfd7f59128",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
