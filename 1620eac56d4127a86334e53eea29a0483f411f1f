@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_acdc1f13",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-08T08:38:46Z",
+      "side": 1,
+      "message": "I think it should also have \\u2026 at the end, to indicate \"progress\".",
+      "revId": "1620eac56d4127a86334e53eea29a0483f411f1f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_2ce82fb4",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-08T08:38:46Z",
+      "side": 1,
+      "message": "Here\u0027s why:\n* user doesn\u0027t care if the reply is \"quick\": he wants to reply (actually I\u0027m thinking if I should replace all \"Reply\" references to single AOSP one to have a bit less work)\n* with \"mark as read\" being added back, we\u0027ll have three buttons that needs VERY short strings, otherwise everything will be cutoff. This is especially important for slavic languages that will have longer translations.",
+      "revId": "1620eac56d4127a86334e53eea29a0483f411f1f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_ec04677f",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-08T08:38:46Z",
+      "side": 1,
+      "message": "URL*",
+      "revId": "1620eac56d4127a86334e53eea29a0483f411f1f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_cc07eb7f",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-08T08:38:46Z",
+      "side": 1,
+      "message": "This one is plain DAFUQ. What does it even mean?",
+      "revId": "1620eac56d4127a86334e53eea29a0483f411f1f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
