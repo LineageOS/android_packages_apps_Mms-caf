@@ -1,0 +1,191 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_9b4517b5",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 88,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-01-09T23:36:08Z",
+      "side": 1,
+      "message": "I\u0027m even inclined to say \u0027nuke those two\u0027, as the sent: and received: prefixes in the message bubbles look totally redundant. Thoughts on that?",
+      "revId": "447a9c8c2f1546f61a22a080dfaa9a68a4f37567",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_fb125bb3",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-01-09T23:36:08Z",
+      "side": 1,
+      "message": "\"Subject is too long\" or \"Subject must not be longer than XXX characters\" or something like that?\n\n(BTW, found this gem while looking this up:\n\n                while (subject.getBytes().length \u003e SUBJECT_MAX_LENGTH) {\n                    subject \u003d subject.substring(0, subject.length() - 1);\n                }\n\nsubject.substring(0, SUBJECT_MAX_LENGTH) probably was too easy.)",
+      "revId": "447a9c8c2f1546f61a22a080dfaa9a68a4f37567",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_db15df9b",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 174,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-01-09T23:36:08Z",
+      "side": 1,
+      "message": "Shouldn\u0027t this be \u0027SMS transaction failures\u0027?",
+      "revId": "447a9c8c2f1546f61a22a080dfaa9a68a4f37567",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_3b0d0391",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 178,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-01-09T23:36:08Z",
+      "side": 1,
+      "message": "Maybe \u0027Loaded...\u0027 instead of \u0027Parsed...\u0027?",
+      "revId": "447a9c8c2f1546f61a22a080dfaa9a68a4f37567",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_1b1007a8",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 199,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-01-09T23:36:08Z",
+      "side": 1,
+      "message": "\u0027WAP push\u0027 (lowercase p)?",
+      "revId": "447a9c8c2f1546f61a22a080dfaa9a68a4f37567",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_7b278b12",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 213,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-01-09T23:36:08Z",
+      "side": 1,
+      "message": "I\u0027d suggest compressing those four to two strings:\n\n\u003cstring name\u003d\"sms_phone_memory_usage\"\u003eSMS: \u003cxliff:g id\u003d\"used\"\u003e%1$d\u003c/xliff:g\u003e of \u003cxliff:g id\u003d\"total\"\u003e%2$d\u003c/xliff:g\u003e used\u003c/string\u003e\n\nsame for MMS",
+      "revId": "447a9c8c2f1546f61a22a080dfaa9a68a4f37567",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_5b228f02",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 259,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-01-09T23:36:08Z",
+      "side": 1,
+      "message": "Nuke and use slot1/slot2 strings instead?",
+      "revId": "447a9c8c2f1546f61a22a080dfaa9a68a4f37567",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_bb21f3fd",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 272,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-01-09T23:36:08Z",
+      "side": 1,
+      "message": "As above, I\u0027d compress this to something like \u00272 of 50 SIM card entries are used\u0027",
+      "revId": "447a9c8c2f1546f61a22a080dfaa9a68a4f37567",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_9b1cf7c2",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 316,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-01-09T23:36:08Z",
+      "side": 1,
+      "message": "Shouldn\u0027t this also become \u0027300KB\u0027?",
+      "revId": "447a9c8c2f1546f61a22a080dfaa9a68a4f37567",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_fb79bbfd",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 346,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-01-09T23:36:08Z",
+      "side": 1,
+      "message": "Message backup saved to \u0027%1$s\u0027",
+      "revId": "447a9c8c2f1546f61a22a080dfaa9a68a4f37567",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_db7cbfed",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 347,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-01-09T23:36:08Z",
+      "side": 1,
+      "message": "Message backups",
+      "revId": "447a9c8c2f1546f61a22a080dfaa9a68a4f37567",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
