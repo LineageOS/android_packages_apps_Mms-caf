@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_f08b951c",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 109,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-10T11:52:33Z",
+      "side": 1,
+      "message": "... aaaand I forgot to correct this.",
+      "revId": "a53eb11c49ed5576cd60d4c7c9449f2d4d176823",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_50838904",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 137,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-10T11:52:33Z",
+      "side": 1,
+      "message": "I was surprised with initial wording too. (#blamecaf)",
+      "revId": "a53eb11c49ed5576cd60d4c7c9449f2d4d176823",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_907df11e",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 206,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-10T11:52:33Z",
+      "side": 1,
+      "message": "Need to remove these and correct the source code accordingly.",
+      "revId": "a53eb11c49ed5576cd60d4c7c9449f2d4d176823",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_b072ad47",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 344,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-10T11:52:33Z",
+      "side": 1,
+      "message": "Oh, grammar fail here.",
+      "revId": "a53eb11c49ed5576cd60d4c7c9449f2d4d176823",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
