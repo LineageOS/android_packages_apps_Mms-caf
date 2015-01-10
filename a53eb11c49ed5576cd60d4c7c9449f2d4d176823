@@ -53,6 +53,24 @@
     },
     {
       "key": {
+        "uuid": "7aa08908_f0b9d5cc",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 171,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-01-10T12:03:56Z",
+      "side": 1,
+      "message": "I doubt xliff:g is strictly needed. The purpose of it is only to give context (basically kind of an explanation).\n\nI certainly doesn\u0027t hurt to add it though (hint, hint) ;)",
+      "parentUuid": "7aa08908_b0a90d7e",
+      "revId": "a53eb11c49ed5576cd60d4c7c9449f2d4d176823",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_907df11e",
         "filename": "res/values/cm_strings.xml",
         "patchSetId": 6
