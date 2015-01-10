@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "7aa08908_ede0dece",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 88,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-10T06:39:17Z",
+      "side": 1,
+      "message": "Totally agree. It\u0027s obvious that message was sent or received at this time.",
+      "parentUuid": "7aa08908_9b4517b5",
+      "revId": "447a9c8c2f1546f61a22a080dfaa9a68a4f37567",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_fb125bb3",
         "filename": "res/values/cm_strings.xml",
         "patchSetId": 4
@@ -30,6 +48,24 @@
       "writtenOn": "2015-01-09T23:36:08Z",
       "side": 1,
       "message": "\"Subject is too long\" or \"Subject must not be longer than XXX characters\" or something like that?\n\n(BTW, found this gem while looking this up:\n\n                while (subject.getBytes().length \u003e SUBJECT_MAX_LENGTH) {\n                    subject \u003d subject.substring(0, subject.length() - 1);\n                }\n\nsubject.substring(0, SUBJECT_MAX_LENGTH) probably was too easy.)",
+      "revId": "447a9c8c2f1546f61a22a080dfaa9a68a4f37567",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_2deb06b2",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-10T06:39:17Z",
+      "side": 1,
+      "message": "I dislike CAF for a reason... will fix this, too.",
+      "parentUuid": "7aa08908_fb125bb3",
       "revId": "447a9c8c2f1546f61a22a080dfaa9a68a4f37567",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -70,6 +106,24 @@
     },
     {
       "key": {
+        "uuid": "7aa08908_6dcd0e5d",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 178,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-10T06:39:17Z",
+      "side": 1,
+      "message": "Not sure. Ideally it would be something like \"%1d of %2$d messages saved to SIM card\", with an appropriate source code edit.",
+      "parentUuid": "7aa08908_3b0d0391",
+      "revId": "447a9c8c2f1546f61a22a080dfaa9a68a4f37567",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_1b1007a8",
         "filename": "res/values/cm_strings.xml",
         "patchSetId": 4
@@ -81,6 +135,24 @@
       "writtenOn": "2015-01-09T23:36:08Z",
       "side": 1,
       "message": "\u0027WAP push\u0027 (lowercase p)?",
+      "revId": "447a9c8c2f1546f61a22a080dfaa9a68a4f37567",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_cddc0215",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 199,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-10T06:39:17Z",
+      "side": 1,
+      "message": "Wikipedia doesn\u0027t seem to agree on that: http://en.wikipedia.org/wiki/Wireless_Application_Protocol#WAP_Push",
+      "parentUuid": "7aa08908_1b1007a8",
       "revId": "447a9c8c2f1546f61a22a080dfaa9a68a4f37567",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -121,6 +193,24 @@
     },
     {
       "key": {
+        "uuid": "7aa08908_add7f6eb",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 259,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-10T06:39:17Z",
+      "side": 1,
+      "message": "Valid point, dups should be removed.",
+      "parentUuid": "7aa08908_5b228f02",
+      "revId": "447a9c8c2f1546f61a22a080dfaa9a68a4f37567",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_bb21f3fd",
         "filename": "res/values/cm_strings.xml",
         "patchSetId": 4
@@ -155,6 +245,24 @@
     },
     {
       "key": {
+        "uuid": "7aa08908_ed073e7f",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 316,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-10T06:39:17Z",
+      "side": 1,
+      "message": "This should totally be edited (I believe Michael fixed this string in cm-11.0)",
+      "parentUuid": "7aa08908_9b1cf7c2",
+      "revId": "447a9c8c2f1546f61a22a080dfaa9a68a4f37567",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_fb79bbfd",
         "filename": "res/values/cm_strings.xml",
         "patchSetId": 4
@@ -183,6 +291,24 @@
       "writtenOn": "2015-01-09T23:36:08Z",
       "side": 1,
       "message": "Message backups",
+      "revId": "447a9c8c2f1546f61a22a080dfaa9a68a4f37567",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_2d02e66f",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 347,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-10T06:39:17Z",
+      "side": 1,
+      "message": "Apparently I fail at grammar... thanks :)",
+      "parentUuid": "7aa08908_db7cbfed",
       "revId": "447a9c8c2f1546f61a22a080dfaa9a68a4f37567",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
