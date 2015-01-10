@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_70e32506",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 370,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-10T11:27:14Z",
+      "side": 1,
+      "message": "Shouldn\u0027t this have question mark at the end? It doesn\u0027t look like a phrase for TTS or something.",
+      "revId": "b3aa0df464e16fa9edc7beef3b9ede400d5dd474",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
