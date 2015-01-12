@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_b4261ab8",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 5858,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2015-01-12T23:00:37Z",
+      "side": 0,
+      "message": "If the message is MMS but has no content (body is empty), this may still need to be hidden.",
+      "revId": "22429e1d990a9b5c2430fa246d8926ca064384e8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_94295e8c",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 5885,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2015-01-12T23:00:37Z",
+      "side": 0,
+      "message": "If the message is MMS but has no content (body is empty), this may still need to be hidden.",
+      "revId": "22429e1d990a9b5c2430fa246d8926ca064384e8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
