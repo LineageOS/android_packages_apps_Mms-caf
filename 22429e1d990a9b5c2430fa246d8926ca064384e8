@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "5a9d85d2_add29d32",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 5858,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-01-13T16:55:33Z",
+      "side": 0,
+      "message": "I updated the copyMessageText() method to show a toast saying there was no text to copy when it cannot find text to copy. Should help with the UX a bit.",
+      "parentUuid": "7aa08908_14e3ae06",
+      "revId": "22429e1d990a9b5c2430fa246d8926ca064384e8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_94295e8c",
         "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
         "patchSetId": 3
