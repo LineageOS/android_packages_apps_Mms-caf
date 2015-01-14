@@ -1,0 +1,123 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a9d85d2_f3f2c805",
+        "filename": "src/com/android/mms/data/Conversation.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 365,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-01-14T13:01:15Z",
+      "side": 1,
+      "message": "Do we want to keep track of our task as a class member so we don\u0027t allow dispatching multiple tasks for something already in progress?",
+      "revId": "88ca2b6cb03beda6bd4bb60dfe8491dbc8ef6d1c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_b3cfa0b2",
+        "filename": "src/com/android/mms/data/Conversation.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 837,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-01-14T13:01:15Z",
+      "side": 1,
+      "message": "Line lengths",
+      "revId": "88ca2b6cb03beda6bd4bb60dfe8491dbc8ef6d1c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_53e47c3a",
+        "filename": "src/com/android/mms/data/Conversation.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 847,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-01-14T13:01:15Z",
+      "side": 1,
+      "message": "is not likely this implementation will dispatch multiples for a conversation, but it would future proof it.",
+      "revId": "88ca2b6cb03beda6bd4bb60dfe8491dbc8ef6d1c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_93d42448",
+        "filename": "src/com/android/mms/data/Conversation.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 860,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-01-14T13:01:15Z",
+      "side": 1,
+      "message": "Line length",
+      "revId": "88ca2b6cb03beda6bd4bb60dfe8491dbc8ef6d1c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_f3c928ae",
+        "filename": "src/com/android/mms/data/Conversation.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 874,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-01-14T13:01:15Z",
+      "side": 1,
+      "message": "braces always!",
+      "revId": "88ca2b6cb03beda6bd4bb60dfe8491dbc8ef6d1c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_33c45091",
+        "filename": "src/com/android/mms/ui/ConversationList.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1024,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-01-14T13:01:15Z",
+      "side": 1,
+      "message": "line length",
+      "revId": "88ca2b6cb03beda6bd4bb60dfe8491dbc8ef6d1c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_73bed800",
+        "filename": "src/com/android/mms/ui/ConversationList.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1351,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-01-14T13:01:15Z",
+      "side": 1,
+      "message": "line length",
+      "revId": "88ca2b6cb03beda6bd4bb60dfe8491dbc8ef6d1c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
