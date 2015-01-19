@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a9d85d2_de16a3a6",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 11
+      },
+      "lineNbr": 280,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-01-19T23:14:17Z",
+      "side": 1,
+      "message": "Maybe rather %1$s/%2$s KB? (mention the unit only once and have a space before it)\n\nAlso, shouldn\u0027t it be $d instead of $s?",
+      "revId": "a04be2cbb698c20c7ceeb83a72ba6b2557511505",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_3e0c0794",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 4249,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-01-19T23:14:17Z",
+      "side": 1,
+      "message": "One can probably inline this into line 4252.",
+      "revId": "a04be2cbb698c20c7ceeb83a72ba6b2557511505",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_1e114bad",
+        "filename": "src/com/android/mms/ui/ManageSimMessages.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 514,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-01-19T23:14:17Z",
+      "side": 1,
+      "message": "String capacityMessage \u003d getString(R.sring.sim_capacity_used,\n        mCursor.getCount(), iccCapacityAll);\n\n\n(less weird indention)",
+      "revId": "a04be2cbb698c20c7ceeb83a72ba6b2557511505",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_5e23d305",
+        "filename": "src/com/android/mms/ui/MessageUtils.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 2602,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-01-19T23:14:17Z",
+      "side": 1,
+      "message": "Something looks fishy here - isn\u0027t this missing a R.string?\n\nAlso this can be formatted better:\n\nmemoryStatus.append(mContext.getString(R.string....,\n        getSmsMessageCount(mContext),\n        mContext.getResources().getInteger(...));\n\n\n(indent by 8 and keep first argument on the original line)",
+      "revId": "a04be2cbb698c20c7ceeb83a72ba6b2557511505",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
