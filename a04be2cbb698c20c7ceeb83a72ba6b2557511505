@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "5a9d85d2_018f2c24",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 11
+      },
+      "lineNbr": 280,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-20T08:49:16Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a9d85d2_de16a3a6",
+      "revId": "a04be2cbb698c20c7ceeb83a72ba6b2557511505",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a9d85d2_3e0c0794",
         "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
         "patchSetId": 11
@@ -30,6 +48,24 @@
       "writtenOn": "2015-01-19T23:14:17Z",
       "side": 1,
       "message": "One can probably inline this into line 4252.",
+      "revId": "a04be2cbb698c20c7ceeb83a72ba6b2557511505",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_a173b84c",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 4249,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-20T08:49:16Z",
+      "side": 1,
+      "message": "Could you please explain a bit what do you mean with this? Didn\u0027t quite get it what do you want me to do, sorry :)",
+      "parentUuid": "5a9d85d2_3e0c0794",
       "revId": "a04be2cbb698c20c7ceeb83a72ba6b2557511505",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "5a9d85d2_e193004e",
+        "filename": "src/com/android/mms/ui/ManageSimMessages.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 514,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-20T08:49:16Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a9d85d2_1e114bad",
+      "revId": "a04be2cbb698c20c7ceeb83a72ba6b2557511505",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a9d85d2_5e23d305",
         "filename": "src/com/android/mms/ui/MessageUtils.java",
         "patchSetId": 11
@@ -64,6 +118,24 @@
       "writtenOn": "2015-01-19T23:14:17Z",
       "side": 1,
       "message": "Something looks fishy here - isn\u0027t this missing a R.string?\n\nAlso this can be formatted better:\n\nmemoryStatus.append(mContext.getString(R.string....,\n        getSmsMessageCount(mContext),\n        mContext.getResources().getInteger(...));\n\n\n(indent by 8 and keep first argument on the original line)",
+      "revId": "a04be2cbb698c20c7ceeb83a72ba6b2557511505",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_4199346e",
+        "filename": "src/com/android/mms/ui/MessageUtils.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 2602,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-20T08:49:16Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a9d85d2_5e23d305",
       "revId": "a04be2cbb698c20c7ceeb83a72ba6b2557511505",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
