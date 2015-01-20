@@ -90,6 +90,24 @@
     },
     {
       "key": {
+        "uuid": "5a9d85d2_41b014de",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 4249,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-20T08:58:55Z",
+      "side": 1,
+      "message": "Ah, okay. Thanks :)",
+      "parentUuid": "5a9d85d2_a1aa986e",
+      "revId": "a04be2cbb698c20c7ceeb83a72ba6b2557511505",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a9d85d2_1e114bad",
         "filename": "src/com/android/mms/ui/ManageSimMessages.java",
         "patchSetId": 11
