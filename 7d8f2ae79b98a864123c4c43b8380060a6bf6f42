@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a9d85d2_fe30bf09",
+        "filename": "src/com/android/mms/quickmessage/QuickMessagePopup.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 933,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-01-20T01:54:20Z",
+      "side": 1,
+      "message": "Is there a possibility that mMsimDialog is not null but isn\u0027t blocking the moveon action?\n\nE.g. user gets quickReply popup, and they\u0027re replying to multiple message threads. After responding to some threads, one of the SIMs is removed from the device and the popup will no longer show a msim selector between messages. Now the quickreply pop up will no longer \"moveOn\".\n\nPerhaps it makes sense to check if mMsimDialog is showing if it is not null and moveOn if it is not showing.",
+      "revId": "7d8f2ae79b98a864123c4c43b8380060a6bf6f42",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
