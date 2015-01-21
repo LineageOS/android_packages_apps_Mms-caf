@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fad55976_0d10154e",
+        "filename": "res/values-zh-rCN/strings.xml",
+        "patchSetId": 15
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 10984
+      },
+      "writtenOn": "2015-01-21T08:59:16Z",
+      "side": 1,
+      "message": "Is this on purpose?",
+      "revId": "99a79dbf2b3c644fd4586eade7e6a8d51b84e709",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_4d1a0d70",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 15
+      },
+      "lineNbr": 169,
+      "author": {
+        "id": 10984
+      },
+      "writtenOn": "2015-01-21T08:59:16Z",
+      "side": 1,
+      "message": "add a space, so it will show \"SIM 1\" instead of \"SIM1\"",
+      "revId": "99a79dbf2b3c644fd4586eade7e6a8d51b84e709",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_8d2a457d",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 15
+      },
+      "lineNbr": 188,
+      "author": {
+        "id": 10984
+      },
+      "writtenOn": "2015-01-21T08:59:16Z",
+      "side": 1,
+      "message": "I\u0027m not sure I like this. A user sees two options \"Contact\" and \"Contact info as text\", they even have two different icons, but it isn\u0027t clear what\u0027s the difference...",
+      "revId": "99a79dbf2b3c644fd4586eade7e6a8d51b84e709",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_cd243db1",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 15
+      },
+      "lineNbr": 310,
+      "author": {
+        "id": 10984
+      },
+      "writtenOn": "2015-01-21T08:59:16Z",
+      "side": 1,
+      "message": "It is not clear what is this meant for...",
+      "revId": "99a79dbf2b3c644fd4586eade7e6a8d51b84e709",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_2d3a39ce",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 15
+      },
+      "lineNbr": 316,
+      "author": {
+        "id": 10984
+      },
+      "writtenOn": "2015-01-21T08:59:16Z",
+      "side": 1,
+      "message": "\"message has failed to send\" sounds awkward... what about \"Text message to %s not sent, please try again.\"?",
+      "revId": "99a79dbf2b3c644fd4586eade7e6a8d51b84e709",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
