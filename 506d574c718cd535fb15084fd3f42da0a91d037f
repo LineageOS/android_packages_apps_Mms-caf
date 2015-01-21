@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fad55976_b01160b2",
+        "filename": "src/com/android/mms/ui/MessageUtils.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 826,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-01-21T17:05:54Z",
+      "side": 1,
+      "message": "string constants?",
+      "revId": "506d574c718cd535fb15084fd3f42da0a91d037f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
