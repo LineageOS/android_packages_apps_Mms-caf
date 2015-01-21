@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "fad55976_8d3b659c",
+        "filename": "res/values-zh-rCN/strings.xml",
+        "patchSetId": 15
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-21T09:29:35Z",
+      "side": 1,
+      "message": "Possibly caused by rebase after this one: http://review.cyanogenmod.org/#/c/85716/ - I\u0027ll recheck.",
+      "parentUuid": "fad55976_0d10154e",
+      "revId": "99a79dbf2b3c644fd4586eade7e6a8d51b84e709",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fad55976_4d1a0d70",
         "filename": "res/values/cm_strings.xml",
         "patchSetId": 15
@@ -53,6 +71,75 @@
     },
     {
       "key": {
+        "uuid": "fad55976_2d4b592d",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 15
+      },
+      "lineNbr": 188,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-21T09:29:35Z",
+      "side": 1,
+      "message": "Well I have no better idea for it. \"Contact\" is somewhat inline with other options (Picture, Video, Audio, Slideshow). I rearranged the list so \"Contact info as text\" is at the end.",
+      "parentUuid": "fad55976_8d2a457d",
+      "revId": "99a79dbf2b3c644fd4586eade7e6a8d51b84e709",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_ad5d89ee",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 15
+      },
+      "lineNbr": 297,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-21T09:29:35Z",
+      "side": 1,
+      "message": "\"Import from storage\"",
+      "revId": "99a79dbf2b3c644fd4586eade7e6a8d51b84e709",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_8d6245ac",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 15
+      },
+      "lineNbr": 298,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-21T09:29:35Z",
+      "side": 1,
+      "message": "\"Export to storage\"",
+      "revId": "99a79dbf2b3c644fd4586eade7e6a8d51b84e709",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_ed5781c8",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 15
+      },
+      "lineNbr": 299,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-21T09:29:35Z",
+      "side": 1,
+      "message": "\"Delete existing backup\"",
+      "revId": "99a79dbf2b3c644fd4586eade7e6a8d51b84e709",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fad55976_cd243db1",
         "filename": "res/values/cm_strings.xml",
         "patchSetId": 15
@@ -64,6 +151,24 @@
       "writtenOn": "2015-01-21T08:59:16Z",
       "side": 1,
       "message": "It is not clear what is this meant for...",
+      "revId": "99a79dbf2b3c644fd4586eade7e6a8d51b84e709",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_4d520ddf",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 15
+      },
+      "lineNbr": 310,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-21T09:29:35Z",
+      "side": 1,
+      "message": "I could change options inside that menu to be similar to what we have in Contacts (see above). This could be changed in similar way, \"Import/export messages\"",
+      "parentUuid": "fad55976_cd243db1",
       "revId": "99a79dbf2b3c644fd4586eade7e6a8d51b84e709",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
