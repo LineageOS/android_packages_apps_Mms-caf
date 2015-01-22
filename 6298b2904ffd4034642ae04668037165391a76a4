@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fad55976_33957a40",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 16
+      },
+      "lineNbr": 188,
+      "author": {
+        "id": 10984
+      },
+      "writtenOn": "2015-01-22T03:10:50Z",
+      "side": 1,
+      "message": "What about \"Contact card\"?",
+      "revId": "6298b2904ffd4034642ae04668037165391a76a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_93a546b7",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 16
+      },
+      "lineNbr": 316,
+      "author": {
+        "id": 10984
+      },
+      "writtenOn": "2015-01-22T03:10:50Z",
+      "side": 1,
+      "message": "\"not send\" -\u003e \"not sent\"",
+      "revId": "6298b2904ffd4034642ae04668037165391a76a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
