@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fad55976_5e7475fc",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 17
+      },
+      "lineNbr": 138,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2015-01-22T13:35:22Z",
+      "side": 1,
+      "message": "Failed to send message, retrying\\u2026",
+      "revId": "5d3c0ed8eda3f1dae4646ccc9ac735cf2e57752d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_be5f7174",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 17
+      },
+      "lineNbr": 139,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2015-01-22T13:35:22Z",
+      "side": 1,
+      "message": "Failed to download message, retrying\\u2026",
+      "revId": "5d3c0ed8eda3f1dae4646ccc9ac735cf2e57752d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_9ecb8d1e",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 17
+      },
+      "lineNbr": 172,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2015-01-22T13:35:22Z",
+      "side": 1,
+      "message": "Do we need \u0027transaction\u0027 here?",
+      "revId": "5d3c0ed8eda3f1dae4646ccc9ac735cf2e57752d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_ded505ba",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 17
+      },
+      "lineNbr": 188,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2015-01-22T13:35:22Z",
+      "side": 1,
+      "message": "Not sure we should change \u0027vCard\u0027 to just \u0027card\u0027",
+      "revId": "5d3c0ed8eda3f1dae4646ccc9ac735cf2e57752d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_1ed83def",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 17
+      },
+      "lineNbr": 215,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2015-01-22T13:35:22Z",
+      "side": 1,
+      "message": "Not that it matters, but 1 week \u003e 2 days. Could use reorder",
+      "revId": "5d3c0ed8eda3f1dae4646ccc9ac735cf2e57752d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
