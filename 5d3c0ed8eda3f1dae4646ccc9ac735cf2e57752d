@@ -53,6 +53,24 @@
     },
     {
       "key": {
+        "uuid": "fad55976_3e5ee145",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 17
+      },
+      "lineNbr": 172,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-01-22T14:21:59Z",
+      "side": 1,
+      "message": "It makes sense to me, also when translated in greek. I couldn\u0027t think of anything better",
+      "parentUuid": "fad55976_9ecb8d1e",
+      "revId": "5d3c0ed8eda3f1dae4646ccc9ac735cf2e57752d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fad55976_ded505ba",
         "filename": "res/values/cm_strings.xml",
         "patchSetId": 17
