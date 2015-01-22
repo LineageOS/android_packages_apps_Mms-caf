@@ -71,6 +71,24 @@
     },
     {
       "key": {
+        "uuid": "fad55976_1e22fdb9",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 17
+      },
+      "lineNbr": 172,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2015-01-22T14:29:16Z",
+      "side": 1,
+      "message": "Alright. Sounds good to me then",
+      "parentUuid": "fad55976_3e5ee145",
+      "revId": "5d3c0ed8eda3f1dae4646ccc9ac735cf2e57752d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fad55976_ded505ba",
         "filename": "res/values/cm_strings.xml",
         "patchSetId": 17
