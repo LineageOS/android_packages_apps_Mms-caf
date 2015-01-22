@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "fad55976_938c2637",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 16
+      },
+      "lineNbr": 188,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-22T03:12:33Z",
+      "side": 1,
+      "message": "Okay, let\u0027s try this.",
+      "parentUuid": "fad55976_33957a40",
+      "revId": "6298b2904ffd4034642ae04668037165391a76a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fad55976_93a546b7",
         "filename": "res/values/cm_strings.xml",
         "patchSetId": 16
@@ -30,6 +48,24 @@
       "writtenOn": "2015-01-22T03:10:50Z",
       "side": 1,
       "message": "\"not send\" -\u003e \"not sent\"",
+      "revId": "6298b2904ffd4034642ae04668037165391a76a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_739ff25f",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 16
+      },
+      "lineNbr": 316,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2015-01-22T03:12:33Z",
+      "side": 1,
+      "message": "Oh damn. I fail at grammar :)",
+      "parentUuid": "fad55976_93a546b7",
       "revId": "6298b2904ffd4034642ae04668037165391a76a4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
