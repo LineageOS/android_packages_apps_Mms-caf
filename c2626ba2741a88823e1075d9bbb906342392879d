@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "fad55976_c1f2369a",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 429,
+      "author": {
+        "id": 10583
+      },
+      "writtenOn": "2015-01-28T14:32:37Z",
+      "side": 1,
+      "message": "I will add the change give me a few please",
+      "parentUuid": "fad55976_2187d210",
+      "revId": "c2626ba2741a88823e1075d9bbb906342392879d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fad55976_817cbe21",
         "filename": "src/com/android/mms/quickmessage/QuickMessageWear.java",
         "patchSetId": 3
@@ -36,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "fad55976_41fe466c",
+        "filename": "src/com/android/mms/quickmessage/QuickMessageWear.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 10583
+      },
+      "writtenOn": "2015-01-28T14:32:37Z",
+      "side": 1,
+      "message": "lol nope just copy and pasted the copyright",
+      "parentUuid": "fad55976_817cbe21",
+      "revId": "c2626ba2741a88823e1075d9bbb906342392879d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fad55976_6179ca2f",
         "filename": "src/com/android/mms/quickmessage/QuickMessageWear.java",
         "patchSetId": 3
@@ -47,6 +83,24 @@
       "writtenOn": "2015-01-28T14:26:09Z",
       "side": 1,
       "message": "No need for onPause here?",
+      "revId": "c2626ba2741a88823e1075d9bbb906342392879d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_e1badabf",
+        "filename": "src/com/android/mms/quickmessage/QuickMessageWear.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 10583
+      },
+      "writtenOn": "2015-01-28T14:32:37Z",
+      "side": 1,
+      "message": "No the activity launches, acquires wakelock, sends message, then destroys itself. The onDestroy is just to make sure the wakelock is released.",
+      "parentUuid": "fad55976_6179ca2f",
       "revId": "c2626ba2741a88823e1075d9bbb906342392879d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
