@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fad55976_f2bbca73",
+        "filename": "src/com/android/mms/transaction/MessagingNotification.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 1315,
+      "author": {
+        "id": 2666
+      },
+      "writtenOn": "2015-01-30T08:27:09Z",
+      "side": 1,
+      "message": "Semicolon missing here!",
+      "revId": "6e8a593ff26a85c419749c19d7d51978f286d905",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
