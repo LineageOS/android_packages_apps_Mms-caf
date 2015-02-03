@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bacf61ea_3c26e916",
+        "filename": "res/layout/mark_read_thread_dialog_view.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-02-03T12:16:13Z",
+      "side": 1,
+      "message": "2015 The CyanogenMod Project",
+      "revId": "26b1586c133fe08b4d3df40513ee9c88a0df173b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_fc8291c7",
+        "filename": "src/com/android/mms/ui/ConversationList.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 1107,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-02-03T12:16:13Z",
+      "side": 1,
+      "message": "Indent should be 8 spaces.",
+      "revId": "26b1586c133fe08b4d3df40513ee9c88a0df173b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
