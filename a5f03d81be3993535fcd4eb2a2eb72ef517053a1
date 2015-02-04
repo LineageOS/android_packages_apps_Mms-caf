@@ -16,6 +16,24 @@
       "revId": "a5f03d81be3993535fcd4eb2a2eb72ef517053a1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_2f486a2d",
+        "filename": "src/com/android/mms/ui/RecipientsEditor.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 554,
+      "author": {
+        "id": 10394
+      },
+      "writtenOn": "2015-02-04T18:10:23Z",
+      "side": 1,
+      "message": "List doesn\u0027t have a clone method so I had to use array list",
+      "parentUuid": "bacf61ea_af3bba9b",
+      "revId": "a5f03d81be3993535fcd4eb2a2eb72ef517053a1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
