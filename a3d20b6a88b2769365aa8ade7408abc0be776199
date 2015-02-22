@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bacf61ea_d569378d",
+        "filename": "src/com/android/mms/quickmessage/QuickMessagePopup.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 151,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-02-22T10:22:58Z",
+      "side": 1,
+      "message": "Leave this as int.",
+      "revId": "a3d20b6a88b2769365aa8ade7408abc0be776199",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_150aafd2",
+        "filename": "src/com/android/mms/quickmessage/QuickMessagePopup.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 177,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-02-22T10:22:58Z",
+      "side": 1,
+      "message": "Integer.valueOf(prefs.getString(Messaging..., String.value of(Messaging...));\n\nOr alternatively indeed always deal with strings, but make sure to compare hen using equals()",
+      "revId": "a3d20b6a88b2769365aa8ade7408abc0be776199",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
