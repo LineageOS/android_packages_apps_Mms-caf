@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bacf61ea_e53766e1",
+        "filename": "src/com/android/mms/quickmessage/QuickMessagePopup.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 633,
+      "author": {
+        "id": 6734
+      },
+      "writtenOn": "2015-02-26T02:19:54Z",
+      "side": 1,
+      "message": "error: cannot find symbol\n            (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);",
+      "revId": "9ea44efe8332b184754b027418e103f490a6e87d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
