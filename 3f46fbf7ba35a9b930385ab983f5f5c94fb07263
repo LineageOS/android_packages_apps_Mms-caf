@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bacf61ea_b0b5aace",
+        "filename": "src/com/android/mms/ui/MessageListAdapter.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 349,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-02-26T22:22:53Z",
+      "side": 1,
+      "message": "Why pass this into the constructor when the MessageItem can fetch this by itself?\n\nAlso please limit line lengths to 100 chars.",
+      "revId": "3f46fbf7ba35a9b930385ab983f5f5c94fb07263",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
