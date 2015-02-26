@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bacf61ea_85266ab8",
+        "filename": "res/xml/preferences.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 284,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-02-26T01:58:24Z",
+      "side": 1,
+      "message": "checkbox -\u003e switch?",
+      "revId": "1d6ca15596b6a2b537a949f0b4a200556a88606a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_652b7683",
+        "filename": "src/com/android/mms/ui/MessageItem.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 140,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-02-26T01:58:24Z",
+      "side": 1,
+      "message": "Indent by 8",
+      "revId": "1d6ca15596b6a2b537a949f0b4a200556a88606a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_c520629e",
+        "filename": "src/com/android/mms/ui/MessageListAdapter.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 222,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-02-26T01:58:24Z",
+      "side": 1,
+      "message": "I\u0027m not sure it\u0027s a good idea to store this in onCreate(), as it means an app restart is required for the setting to take effect. I\u0027d rather suggest to query the pref value in MessageListItem everytime it\u0027s displayed ... as the shared prefs are cached in memory, those calls should be cheap.",
+      "revId": "1d6ca15596b6a2b537a949f0b4a200556a88606a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
