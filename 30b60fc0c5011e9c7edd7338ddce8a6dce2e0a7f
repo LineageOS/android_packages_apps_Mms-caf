@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ad45d7e_b9777d01",
+        "filename": "res/layout/compose_message_activity.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 203,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-03-06T22:15:30Z",
+      "side": 1,
+      "message": "Wouldn\u0027t you want to expose this as well?\n\n(it also appears several times below)",
+      "revId": "30b60fc0c5011e9c7edd7338ddce8a6dce2e0a7f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9ad45d7e_d964f14a",
+        "filename": "res/values/cm_colors.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-03-06T22:15:30Z",
+      "side": 1,
+      "message": "This comment can be removed, I think: after all, the colors are no longer hardcoded.",
+      "revId": "30b60fc0c5011e9c7edd7338ddce8a6dce2e0a7f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
