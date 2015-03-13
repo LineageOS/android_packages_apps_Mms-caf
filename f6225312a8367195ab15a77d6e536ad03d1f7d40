@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7ac969e8_afe8d917",
+        "filename": "src/com/android/mms/ui/MessagingPreferenceActivity.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 334,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-03-13T00:53:44Z",
+      "side": 1,
+      "message": "I\u0027d probably do this as\n\nfinal Preference patternPref \u003d findPreference(NOTIFICATION_VIBRATE_PATTERN);\n\nmNotificationPrefCategory.removePreference(patternPref);",
+      "revId": "f6225312a8367195ab15a77d6e536ad03d1f7d40",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
