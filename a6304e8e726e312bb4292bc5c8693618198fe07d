@@ -16,6 +16,24 @@
       "revId": "a6304e8e726e312bb4292bc5c8693618198fe07d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ac665da_b31dda68",
+        "filename": "src/com/android/mms/QTIBackupSMS.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 272,
+      "author": {
+        "id": 8328
+      },
+      "writtenOn": "2015-03-24T05:01:01Z",
+      "side": 1,
+      "message": "no exception should occur in this code path. adding a try catch for \"possible issues\" is too overkill in my point of view.\n\nhere it gets the cursor, if it is null it returns. you cant close null so its fine. gets the count, if there are no records we close and return. and below closing the cursor is already handled.\n\nif you come across an exception that prevents closing the cursor, i will happily wrap it around a try finally :)",
+      "parentUuid": "5ac665da_9306df1e",
+      "revId": "a6304e8e726e312bb4292bc5c8693618198fe07d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
