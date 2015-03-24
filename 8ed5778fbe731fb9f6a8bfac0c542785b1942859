@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ac665da_3320ca9b",
+        "filename": "src/com/android/mms/ui/MessagingPreferenceActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1088,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2015-03-24T05:12:33Z",
+      "side": 1,
+      "message": "IHMO, all this method should be coded as\n\n File folder \u003d new File(Environment.getExternalStorageDirectory(), BACKUP_FOLDER_NAME);\n return folder.listFiles(new FilenameFilter() {\n     @Override\n     public boolean accept(File dir, String name) {\n         return name.toLowerCase().endsWith(\".zip\");\n     }\n });\n\nBecause listFiles returns always null if there are no matches (there isn\u0027t need for the extra check), and including a filter for zips files.\nYou can include the delete in the filter, but my opinion is left them untoched, since we don\u0027t the procedence of them.",
+      "revId": "8ed5778fbe731fb9f6a8bfac0c542785b1942859",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ac665da_733a42cf",
+        "filename": "src/com/android/mms/ui/MessagingPreferenceActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1102,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2015-03-24T05:12:33Z",
+      "side": 1,
+      "message": "This check isn\u0027t necessary. The listfiles will return only valid names",
+      "revId": "8ed5778fbe731fb9f6a8bfac0c542785b1942859",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ac665da_1325ceaa",
+        "filename": "src/com/android/mms/ui/MessagingPreferenceActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1106,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2015-03-24T05:12:33Z",
+      "side": 1,
+      "message": "Why delete things that do you don\u0027t who put it there?",
+      "revId": "8ed5778fbe731fb9f6a8bfac0c542785b1942859",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
