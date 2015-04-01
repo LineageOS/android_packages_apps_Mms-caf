@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ac665da_ccdb83ec",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 730,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-04-01T17:37:53Z",
+      "side": 1,
+      "message": "Try to keep comments under the 100 char limit as well. \n\nMoreover, I appreciate that you commented the code here as it\u0027s not obvious what you\u0027re protecting the code path for. But it\u0027s overly verbose and difficult to understand. I\u0027d suggest changing this to read a bit more cleanly, such as:\n\n// Only need to set EXTRA_RECIPIENTS when adding recipients, adding this extra when mRecipientsEditor is not defined and has no numbers will result in failures when saving draft messages.",
+      "revId": "deb38c280344b43ef1a63fb7c1d028dd5b4b3443",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
