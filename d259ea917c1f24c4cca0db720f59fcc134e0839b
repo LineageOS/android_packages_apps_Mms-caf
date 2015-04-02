@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ac665da_8f0cdd95",
+        "filename": "src/com/android/mms/data/Conversation.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 834,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-04-02T07:15:39Z",
+      "side": 1,
+      "message": "Any reason to not get this from SubscriptionManager?",
+      "revId": "d259ea917c1f24c4cca0db720f59fcc134e0839b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ac665da_8f35fd47",
+        "filename": "src/com/android/mms/ui/ConversationList.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 339,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-04-02T07:15:39Z",
+      "side": 1,
+      "message": "You can get the subId from SubscriptionManager with\n\nint index \u003d 0;\nfinal long subId \u003d SubscriptionManager.getSubId(SLOT_ID)[index];",
+      "revId": "d259ea917c1f24c4cca0db720f59fcc134e0839b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ac665da_af3c3930",
+        "filename": "src/com/android/mms/ui/MailBoxMessageList.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 536,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-04-02T07:15:39Z",
+      "side": 1,
+      "message": "same can be done here",
+      "revId": "d259ea917c1f24c4cca0db720f59fcc134e0839b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
