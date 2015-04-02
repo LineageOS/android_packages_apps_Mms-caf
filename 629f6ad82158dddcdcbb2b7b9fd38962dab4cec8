@@ -16,6 +16,24 @@
       "revId": "629f6ad82158dddcdcbb2b7b9fd38962dab4cec8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ac665da_7d815b4a",
+        "filename": "src/com/android/mms/ui/MessageUtils.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1570,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-04-02T18:57:54Z",
+      "side": 0,
+      "message": "slotIds should be named subIds - the method gives you the subs for a given slot.\n\nUsing phone ID and slot index interchangably looks safe to me at this point; changing that would need major refactoring, so let\u0027s do one thing at a time :)",
+      "parentUuid": "5ac665da_0f4aadc5",
+      "revId": "629f6ad82158dddcdcbb2b7b9fd38962dab4cec8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
