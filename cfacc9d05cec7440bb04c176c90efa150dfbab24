@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ac665da_5d261fbb",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 537,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-04-02T16:10:52Z",
+      "side": 1,
+      "message": "This is still \u003e 100 char",
+      "revId": "cfacc9d05cec7440bb04c176c90efa150dfbab24",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
