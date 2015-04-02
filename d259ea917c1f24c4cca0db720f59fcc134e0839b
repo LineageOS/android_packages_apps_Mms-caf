@@ -19,6 +19,23 @@
     },
     {
       "key": {
+        "uuid": "5ac665da_72cfcab0",
+        "filename": "src/com/android/mms/transaction/SmsSingleRecipientSender.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-04-02T10:41:04Z",
+      "side": 1,
+      "message": "Throwing an NPE here.\n\nMight just be another mismatch since they\u0027re trying to get subId from mPhoneId (which should be slot?).\n\nhttps://gist.github.com/Decad3nce/3e99c33c5dcb66ca343f",
+      "revId": "d259ea917c1f24c4cca0db720f59fcc134e0839b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5ac665da_8f35fd47",
         "filename": "src/com/android/mms/ui/ConversationList.java",
         "patchSetId": 1
