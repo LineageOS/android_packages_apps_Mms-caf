@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ac665da_1d7827f2",
+        "filename": "res/values/cm_colors.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2015-04-03T02:52:54Z",
+      "side": 1,
+      "message": "I realize this is \"white\" but can you reference the original color which is @android:color/white instead of using the hex value?",
+      "revId": "86dc58327f812592c92d159307ad6b3db1007e1e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
