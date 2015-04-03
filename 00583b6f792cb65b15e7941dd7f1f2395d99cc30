@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ac665da_78b5e9cb",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 537,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2015-04-03T06:33:49Z",
+      "side": 1,
+      "message": "Just want to correct the grammar here, if you don\u0027t mind:\n\n// avoid initializing mRecipientsEditor wrong. Otherwise, this will\n\n// cause failure when saving a draft.",
+      "revId": "00583b6f792cb65b15e7941dd7f1f2395d99cc30",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
