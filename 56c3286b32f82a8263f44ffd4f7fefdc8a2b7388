@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3ac371cc_87c068e2",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 253,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-04-07T05:50:31Z",
+      "side": 1,
+      "message": "Extra space in the beginning?",
+      "revId": "56c3286b32f82a8263f44ffd4f7fefdc8a2b7388",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
