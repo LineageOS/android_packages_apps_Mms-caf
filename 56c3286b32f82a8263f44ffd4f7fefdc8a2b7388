@@ -16,6 +16,24 @@
       "revId": "56c3286b32f82a8263f44ffd4f7fefdc8a2b7388",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ac371cc_275ed445",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 253,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-04-07T06:28:23Z",
+      "side": 1,
+      "message": "Kind of intentional for spacing towards the SIM name. As it wasn\u0027t sufficient anyway I added additional spaces in code, so I\u0027ll probably replace this space by an additional one in code, it\u0027s probably cleaner that way.",
+      "parentUuid": "3ac371cc_87c068e2",
+      "revId": "56c3286b32f82a8263f44ffd4f7fefdc8a2b7388",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
