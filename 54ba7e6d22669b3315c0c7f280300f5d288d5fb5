@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3ac371cc_d887ddd5",
+        "filename": "src/com/android/mms/ui/RecipientsEditor.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 332,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-04-08T05:58:09Z",
+      "side": 1,
+      "message": "Is this necessary?  I don\u0027t see usage within the Runnable implementations.",
+      "revId": "54ba7e6d22669b3315c0c7f280300f5d288d5fb5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
