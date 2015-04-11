@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3ac371cc_dfb5fcd0",
+        "filename": "src/com/android/mms/util/MultiSensorManager.java",
+        "patchSetId": 9
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-04-11T01:21:38Z",
+      "side": 1,
+      "message": "This class should be moved to shared code (e.g. ContactsCommon).\n\nPlease also fix the various lines \u003e 100 chars while you\u0027re at it.",
+      "revId": "03390a58556eeebc3000096536594874a0a86c93",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
