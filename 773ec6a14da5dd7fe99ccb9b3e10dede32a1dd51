@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3ac371cc_7f77a1d4",
+        "filename": "src/com/android/mms/data/WorkingMessage.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 1546,
+      "author": {
+        "id": 12116
+      },
+      "writtenOn": "2015-04-15T02:13:05Z",
+      "side": 1,
+      "message": "This needs to be ContentValues(2), I think",
+      "revId": "773ec6a14da5dd7fe99ccb9b3e10dede32a1dd51",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
