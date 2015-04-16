@@ -16,6 +16,24 @@
       "revId": "30b3c3cf4aa0ad9298baf9c075ae621b85b17708",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ac371cc_9017eaec",
+        "filename": "src/com/android/mms/transaction/TransactionService.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 392,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-04-16T01:43:51Z",
+      "side": 1,
+      "message": "Yep, right. I\u0027ll fix that.",
+      "parentUuid": "3ac371cc_70206e4a",
+      "revId": "30b3c3cf4aa0ad9298baf9c075ae621b85b17708",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
