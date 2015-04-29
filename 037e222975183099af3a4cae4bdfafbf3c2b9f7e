@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da7fb54a_efcbe01c",
+        "filename": "src/com/android/mms/data/Conversation.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 575,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-04-29T05:58:26Z",
+      "side": 1,
+      "message": "The method name should be \"setIsTop\" to match the getter and the instance variable.",
+      "revId": "037e222975183099af3a4cae4bdfafbf3c2b9f7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da7fb54a_cfc61c16",
+        "filename": "src/com/android/mms/data/Conversation.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 577,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-04-29T05:58:26Z",
+      "side": 1,
+      "message": "Add white space line after this method.",
+      "revId": "037e222975183099af3a4cae4bdfafbf3c2b9f7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
