@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a89bdaa_9fe8d318",
+        "filename": "src/com/android/mms/quickmessage/QuickMessagePopup.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-05-04T18:48:04Z",
+      "side": 1,
+      "message": "This import is already present (line 62), thus unneeded.",
+      "revId": "33848c667aee8ab73abca723d89586e07052582f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_bfed9727",
+        "filename": "src/com/android/mms/quickmessage/QuickMessagePopup.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 761,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-05-04T18:48:04Z",
+      "side": 1,
+      "message": "Member variables should be prefixed by m. In this particular place, making this a member variable, as you can simply pass the EditText instance into hideKeyboard().",
+      "revId": "33848c667aee8ab73abca723d89586e07052582f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_1fdda370",
+        "filename": "src/com/android/mms/quickmessage/QuickMessagePopup.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 847,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-05-04T18:48:04Z",
+      "side": 1,
+      "message": "Can\u0027t you kill this block now?",
+      "revId": "33848c667aee8ab73abca723d89586e07052582f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_dff25b06",
+        "filename": "src/com/android/mms/quickmessage/QuickMessagePopup.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 850,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-05-04T18:48:04Z",
+      "side": 1,
+      "message": "Indention is off here.",
+      "revId": "33848c667aee8ab73abca723d89586e07052582f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_fff71ff3",
+        "filename": "src/com/android/mms/quickmessage/QuickMessagePopup.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 895,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2015-05-04T18:48:04Z",
+      "side": 1,
+      "message": "Should have an empty line after the closing brace.",
+      "revId": "33848c667aee8ab73abca723d89586e07052582f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
