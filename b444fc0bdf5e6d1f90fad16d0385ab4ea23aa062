@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a89bdaa_fa2abbe6",
+        "filename": "src/com/android/mms/data/cm/CMConversationSettings.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 12876
+      },
+      "writtenOn": "2015-05-15T18:13:54Z",
+      "side": 1,
+      "message": "Shouldn\u0027t there still be at least one cursor null check left in place (probably 3 lines above)?",
+      "revId": "b444fc0bdf5e6d1f90fad16d0385ab4ea23aa062",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
