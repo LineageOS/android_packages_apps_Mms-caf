@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "9a89bdaa_ba1af315",
+        "filename": "src/com/android/mms/data/PhoneNumber.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 13023
+      },
+      "writtenOn": "2015-05-15T14:15:45Z",
+      "side": 1,
+      "message": "Because here the phone number not belong any contact, identify  them as stranger",
+      "parentUuid": "9a89bdaa_5781c249",
+      "revId": "3d5c01a0f885d9073d1b840c5adf7e1f06a849fa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9a89bdaa_7796c695",
         "filename": "src/com/android/mms/data/PhoneNumber.java",
         "patchSetId": 3
