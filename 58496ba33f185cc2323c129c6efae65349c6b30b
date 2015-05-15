@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a89bdaa_97934aa3",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 3709,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-05-15T05:37:37Z",
+      "side": 0,
+      "message": "Why is this code block no longer needed? Isn\u0027t this needed to keep contacts that were entered manually from being removed from the RecipientsEditor?",
+      "revId": "58496ba33f185cc2323c129c6efae65349c6b30b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

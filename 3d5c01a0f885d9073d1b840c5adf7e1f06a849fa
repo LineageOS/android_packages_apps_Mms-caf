@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a89bdaa_5781c249",
+        "filename": "src/com/android/mms/data/PhoneNumber.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-05-15T05:37:37Z",
+      "side": 1,
+      "message": "Need a space here: (String stranger) {\n\nAlso stranger may not be a good variable name. How about just \"name\"",
+      "revId": "3d5c01a0f885d9073d1b840c5adf7e1f06a849fa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_7796c695",
+        "filename": "src/com/android/mms/data/PhoneNumber.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-05-15T05:37:37Z",
+      "side": 1,
+      "message": "Correct the spacing before and after the equal sign. Should always read like this: \"varName \u003d newValue;\"",
+      "revId": "3d5c01a0f885d9073d1b840c5adf7e1f06a849fa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_17ee5a22",
+        "filename": "src/com/android/mms/ui/SelectRecipientsList.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 358,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-05-15T05:37:37Z",
+      "side": 1,
+      "message": "extra space after \u0027found\u0027",
+      "revId": "3d5c01a0f885d9073d1b840c5adf7e1f06a849fa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_b7904e97",
+        "filename": "src/com/android/mms/ui/SelectRecipientsList.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 379,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-05-15T05:37:37Z",
+      "side": 1,
+      "message": "Spacing: } else {",
+      "revId": "3d5c01a0f885d9073d1b840c5adf7e1f06a849fa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_d78dd27c",
+        "filename": "src/com/android/mms/ui/SelectRecipientsList.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 382,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-05-15T05:37:37Z",
+      "side": 1,
+      "message": "extra space after \u0027found\u0027",
+      "revId": "3d5c01a0f885d9073d1b840c5adf7e1f06a849fa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_f7e81619",
+        "filename": "src/com/android/mms/ui/SelectRecipientsList.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 383,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-05-15T05:37:37Z",
+      "side": 1,
+      "message": "spacing: checked : old",
+      "revId": "3d5c01a0f885d9073d1b840c5adf7e1f06a849fa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
