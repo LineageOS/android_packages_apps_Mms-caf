@@ -16,6 +16,24 @@
       "revId": "cef39e7ac04ca479a4535da7d597d4c19de78bb8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_c4ed3227",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1299,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2015-05-28T04:59:53Z",
+      "side": 1,
+      "message": "Doesn\u0027t seems. From what I read in the code mWorkingMessage always has a valid ref. When could mWorkingMessage be null?",
+      "parentUuid": "7a8ec9b2_9e629d15",
+      "revId": "cef39e7ac04ca479a4535da7d597d4c19de78bb8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
