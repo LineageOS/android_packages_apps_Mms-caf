@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a461143_cf25415d",
+        "filename": "res/values/cm_colors.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2015-06-13T23:22:02Z",
+      "side": 1,
+      "message": "since this isn\u0027t explicit for incoming or outgoing messages, could you call this a bit more generic? like message_link_text_color.",
+      "revId": "03a13a6014a529da0b3bcde0d2c9a64e55eab2b5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
