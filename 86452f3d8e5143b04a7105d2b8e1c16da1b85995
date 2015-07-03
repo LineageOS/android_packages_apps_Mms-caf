@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7ffa3b31_27f798f8",
+        "filename": "src/com/android/mms/data/WorkingMessage.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1569,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2015-07-03T05:10:17Z",
+      "side": 1,
+      "message": "If we reach this catch (Exception e) block then we could have failed for other reasons AND mmsUri \u003d\u003d null. Should we check if mmsUri \u003d\u003d null earlier in the method and then call the error callback for this known case instead of extending the try block which could catch other unrelated things as a side effect?",
+      "revId": "86452f3d8e5143b04a7105d2b8e1c16da1b85995",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
