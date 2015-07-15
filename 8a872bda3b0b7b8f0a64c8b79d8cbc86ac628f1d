@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff0f0b1f_616c6508",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-07-15T22:41:24Z",
+      "side": 1,
+      "message": "Is this more like Hiding the \"To\" label when editing the subject?",
+      "range": {
+        "startLine": 7,
+        "startChar": 9,
+        "endLine": 7,
+        "endChar": 33
+      },
+      "revId": "8a872bda3b0b7b8f0a64c8b79d8cbc86ac628f1d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff0f0b1f_81677926",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2099,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-07-15T22:41:24Z",
+      "side": 1,
+      "message": "\"to\" label so that it\u0027s a little easier to read ;P",
+      "range": {
+        "startLine": 2099,
+        "startChar": 26,
+        "endLine": 2099,
+        "endChar": 28
+      },
+      "revId": "8a872bda3b0b7b8f0a64c8b79d8cbc86ac628f1d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
