@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff0f0b1f_f5f26f9a",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 4565,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2015-07-16T23:59:54Z",
+      "side": 1,
+      "message": "should update the method documentation based on the added check for !mShouldLoadDraft",
+      "range": {
+        "startLine": 4565,
+        "startChar": 7,
+        "endLine": 4565,
+        "endChar": 81
+      },
+      "revId": "fcdf56ce1891813eee5fe8e5aea7619e35584187",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
