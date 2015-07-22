@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "df140735_c247b8bc",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1154,
+      "author": {
+        "id": 13408
+      },
+      "writtenOn": "2015-07-22T12:26:12Z",
+      "side": 1,
+      "message": "This method might not even need to exist anymore. I\u0027ll do some tests tomorrow.",
+      "parentUuid": "df140735_2204347b",
+      "revId": "2217c92468aa55d9b15753c7761ecbd8cf9891d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "df140735_42ff2867",
         "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
         "patchSetId": 2
@@ -53,6 +71,24 @@
       "writtenOn": "2015-07-22T10:55:59Z",
       "side": 1,
       "message": "Won\u0027t this handler have a main looper anyway, does this change anything ?",
+      "revId": "2217c92468aa55d9b15753c7761ecbd8cf9891d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df140735_821300b9",
+        "filename": "src/com/android/mms/ui/RecipientsEditor.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 355,
+      "author": {
+        "id": 13408
+      },
+      "writtenOn": "2015-07-22T12:26:12Z",
+      "side": 1,
+      "message": "Yup, thought i got rid of these changes in the last patchset.",
+      "parentUuid": "df140735_620a2c8b",
       "revId": "2217c92468aa55d9b15753c7761ecbd8cf9891d9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
