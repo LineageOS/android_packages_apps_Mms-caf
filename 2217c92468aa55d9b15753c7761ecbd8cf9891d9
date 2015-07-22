@@ -1,0 +1,61 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df140735_2204347b",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1154,
+      "author": {
+        "id": 11306
+      },
+      "writtenOn": "2015-07-22T10:55:59Z",
+      "side": 1,
+      "message": "Look into using AsyncDialog ?",
+      "revId": "2217c92468aa55d9b15753c7761ecbd8cf9891d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df140735_42ff2867",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1175,
+      "author": {
+        "id": 11306
+      },
+      "writtenOn": "2015-07-22T10:55:59Z",
+      "side": 1,
+      "message": "Can\u0027t you use mHandler or runOnUIThread ?",
+      "range": {
+        "startLine": 1175,
+        "startChar": 16,
+        "endLine": 1175,
+        "endChar": 23
+      },
+      "revId": "2217c92468aa55d9b15753c7761ecbd8cf9891d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df140735_620a2c8b",
+        "filename": "src/com/android/mms/ui/RecipientsEditor.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 355,
+      "author": {
+        "id": 11306
+      },
+      "writtenOn": "2015-07-22T10:55:59Z",
+      "side": 1,
+      "message": "Won\u0027t this handler have a main looper anyway, does this change anything ?",
+      "revId": "2217c92468aa55d9b15753c7761ecbd8cf9891d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
