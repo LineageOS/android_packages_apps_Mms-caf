@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df140735_a8e2632e",
+        "filename": "Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-07-23T01:01:14Z",
+      "side": 1,
+      "message": "comment out",
+      "revId": "d7c5a8a161261531efeb85434db18105748fb944",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df140735_88d1df5a",
+        "filename": "src/com/android/mms/ui/ChipsRecipientAdapter.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-07-23T01:01:14Z",
+      "side": 1,
+      "message": "unused imports?",
+      "revId": "d7c5a8a161261531efeb85434db18105748fb944",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
