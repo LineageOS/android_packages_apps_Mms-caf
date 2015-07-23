@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df140735_93dc7419",
+        "filename": "src/com/android/mms/ui/ConversationListItem.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 126,
+      "author": {
+        "id": 6334
+      },
+      "writtenOn": "2015-07-23T21:03:32Z",
+      "side": 1,
+      "message": "As a global static Pattern",
+      "revId": "154f324e45508d0db620b18bfeed2e565f370184",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
