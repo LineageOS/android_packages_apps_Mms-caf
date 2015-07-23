@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "df140735_68320baa",
+        "filename": "src/com/android/mms/ui/MessageListAdapter.java",
+        "patchSetId": 8
+      },
+      "lineNbr": 432,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-07-23T02:02:48Z",
+      "side": 1,
+      "message": "good point",
+      "parentUuid": "df140735_82e8a016",
+      "revId": "eea8de84d56dc64bc0610b51b9dcbce11f5b6e77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "df140735_cdaa4918",
         "filename": "src/com/android/mms/ui/MessageListItem.java",
         "patchSetId": 8
@@ -36,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "df140735_48274766",
+        "filename": "src/com/android/mms/ui/MessageListItem.java",
+        "patchSetId": 8
+      },
+      "lineNbr": 289,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-07-23T02:02:48Z",
+      "side": 1,
+      "message": "not needed anymore as we are back to the same number of view types as before (4). When we do implement the multitude of view types for attachments in a later patch (audio, video, contact card etc .. ), we will add a object pool to make recycling better. Till then, back to the old ways",
+      "parentUuid": "df140735_cdaa4918",
+      "revId": "eea8de84d56dc64bc0610b51b9dcbce11f5b6e77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "df140735_ada71550",
         "filename": "src/com/android/mms/ui/MessageListItem.java",
         "patchSetId": 8
@@ -47,6 +83,24 @@
       "writtenOn": "2015-07-22T23:12:46Z",
       "side": 1,
       "message": "If this has been called with \u0027true\u0027 as an argument, then \u0027false\u0027 the background should stay the same.  Is that intended?  If so then why not\n\nif (isGrouped) {\n    setMessageBubble();\n}\n\nfrom the scope of the caller of this method.",
+      "revId": "eea8de84d56dc64bc0610b51b9dcbce11f5b6e77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df140735_c81a3716",
+        "filename": "src/com/android/mms/ui/MessageListItem.java",
+        "patchSetId": 8
+      },
+      "lineNbr": 620,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-07-23T02:02:48Z",
+      "side": 1,
+      "message": "good catch .. this is not needed anymore\nthe arrowheads are now separate from the message bubble body",
+      "parentUuid": "df140735_ada71550",
       "revId": "eea8de84d56dc64bc0610b51b9dcbce11f5b6e77",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
