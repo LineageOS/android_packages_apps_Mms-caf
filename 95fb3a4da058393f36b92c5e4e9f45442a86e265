@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "bf091321_e1d63cc4",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 2188,
+      "author": {
+        "id": 13408
+      },
+      "writtenOn": "2015-07-28T05:34:59Z",
+      "side": 0,
+      "message": "This runs in onresume as well, which gets called again shortly after this.",
+      "parentUuid": "bf091321_81c66016",
+      "revId": "95fb3a4da058393f36b92c5e4e9f45442a86e265",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bf091321_61cb4c1e",
         "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
         "patchSetId": 5
@@ -30,6 +48,24 @@
       "writtenOn": "2015-07-28T05:25:27Z",
       "side": 0,
       "message": "No longer needed to update the title after loading above?",
+      "revId": "95fb3a4da058393f36b92c5e4e9f45442a86e265",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_c1e338a4",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 2422,
+      "author": {
+        "id": 13408
+      },
+      "writtenOn": "2015-07-28T05:34:59Z",
+      "side": 0,
+      "message": "called in onresume after onstart.",
+      "parentUuid": "bf091321_61cb4c1e",
       "revId": "95fb3a4da058393f36b92c5e4e9f45442a86e265",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "bf091321_01037044",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 4747,
+      "author": {
+        "id": 13408
+      },
+      "writtenOn": "2015-07-28T05:34:59Z",
+      "side": 0,
+      "message": "Done",
+      "parentUuid": "bf091321_c14e98c0",
+      "revId": "95fb3a4da058393f36b92c5e4e9f45442a86e265",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bf091321_41d048ca",
         "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
         "patchSetId": 5
@@ -64,6 +118,24 @@
       "writtenOn": "2015-07-28T05:25:27Z",
       "side": 0,
       "message": "We don\u0027t need this here? Where is this replaced?",
+      "revId": "95fb3a4da058393f36b92c5e4e9f45442a86e265",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_a1e04498",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 4941,
+      "author": {
+        "id": 13408
+      },
+      "writtenOn": "2015-07-28T05:34:59Z",
+      "side": 0,
+      "message": "called in onresume, which is executed later down the line",
+      "parentUuid": "bf091321_41d048ca",
       "revId": "95fb3a4da058393f36b92c5e4e9f45442a86e265",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
