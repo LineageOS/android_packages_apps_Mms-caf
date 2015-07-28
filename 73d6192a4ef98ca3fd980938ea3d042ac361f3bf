@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf091321_3e27b167",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 9
+      },
+      "lineNbr": 4568,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2015-07-28T01:07:39Z",
+      "side": 1,
+      "message": "Doesn\u0027t compile. It requires an extra )",
+      "range": {
+        "startLine": 4568,
+        "startChar": 86,
+        "endLine": 4568,
+        "endChar": 89
+      },
+      "revId": "73d6192a4ef98ca3fd980938ea3d042ac361f3bf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
