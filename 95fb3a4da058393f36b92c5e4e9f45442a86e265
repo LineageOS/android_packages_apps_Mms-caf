@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf091321_c14e98c0",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 4747,
+      "author": {
+        "id": 10394
+      },
+      "writtenOn": "2015-07-28T05:21:05Z",
+      "side": 0,
+      "message": "any reason why we removed this as opposed to wrapping it in a debug flag?",
+      "revId": "95fb3a4da058393f36b92c5e4e9f45442a86e265",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
