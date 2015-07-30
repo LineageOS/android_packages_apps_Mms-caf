@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "bf091321_75889f70",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 2402,
+      "author": {
+        "id": 13408
+      },
+      "writtenOn": "2015-07-30T04:38:19Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "bf091321_759f7fb4",
+      "revId": "78d3ca8823f5dd50666a99d6e27926758578689f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bf091321_35a907df",
         "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
         "patchSetId": 3
@@ -30,6 +48,30 @@
       "writtenOn": "2015-07-30T04:31:55Z",
       "side": 1,
       "message": "same as above",
+      "range": {
+        "startLine": 4181,
+        "startChar": 12,
+        "endLine": 4181,
+        "endChar": 45
+      },
+      "revId": "78d3ca8823f5dd50666a99d6e27926758578689f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_557d9b6c",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 4181,
+      "author": {
+        "id": 13408
+      },
+      "writtenOn": "2015-07-30T04:38:19Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "bf091321_35a907df",
       "range": {
         "startLine": 4181,
         "startChar": 12,
