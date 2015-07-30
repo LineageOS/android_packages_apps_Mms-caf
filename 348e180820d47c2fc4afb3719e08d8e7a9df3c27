@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "bf091321_027a4b23",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 5054,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2015-07-30T02:31:00Z",
+      "side": 1,
+      "message": "I\u0027m sure that can\u0027t hurt.",
+      "parentUuid": "bf091321_e2c87775",
+      "revId": "348e180820d47c2fc4afb3719e08d8e7a9df3c27",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bf091321_c2c5735d",
         "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
         "patchSetId": 2
@@ -30,6 +48,24 @@
       "writtenOn": "2015-07-30T02:29:10Z",
       "side": 1,
       "message": "Is the UI also updated after the delete so that the message is visibly deleted?",
+      "revId": "348e180820d47c2fc4afb3719e08d8e7a9df3c27",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_227d4f1c",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 5059,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2015-07-30T02:31:00Z",
+      "side": 1,
+      "message": "The conversation gets properly updated once the deletion is complete.",
+      "parentUuid": "bf091321_c2c5735d",
       "revId": "348e180820d47c2fc4afb3719e08d8e7a9df3c27",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
