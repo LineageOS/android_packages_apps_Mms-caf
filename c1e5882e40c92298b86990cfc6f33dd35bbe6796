@@ -1,0 +1,84 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf091321_b389af27",
+        "filename": "src/com/android/mms/ui/AttachmentEditor.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-07-31T04:51:04Z",
+      "side": 1,
+      "message": "extra space after comma",
+      "range": {
+        "startLine": 93,
+        "startChar": 69,
+        "endLine": 93,
+        "endChar": 71
+      },
+      "revId": "c1e5882e40c92298b86990cfc6f33dd35bbe6796",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_73aaf785",
+        "filename": "src/com/android/mms/ui/AttachmentEditor.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-07-31T04:51:04Z",
+      "side": 1,
+      "message": "extra line",
+      "revId": "c1e5882e40c92298b86990cfc6f33dd35bbe6796",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_73831706",
+        "filename": "src/com/android/mms/ui/AttachmentEditor.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-07-31T04:51:04Z",
+      "side": 1,
+      "message": "can you check to see what happens with multiple slides",
+      "revId": "c1e5882e40c92298b86990cfc6f33dd35bbe6796",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_938eab2c",
+        "filename": "src/com/android/mms/ui/AttachmentEditor.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 130,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-07-31T04:51:04Z",
+      "side": 1,
+      "message": "wrong type",
+      "range": {
+        "startLine": 130,
+        "startChar": 44,
+        "endLine": 130,
+        "endChar": 48
+      },
+      "revId": "c1e5882e40c92298b86990cfc6f33dd35bbe6796",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
