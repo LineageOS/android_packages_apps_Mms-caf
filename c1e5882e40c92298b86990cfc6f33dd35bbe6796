@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "bf091321_93934b50",
+        "filename": "src/com/android/mms/ui/AttachmentEditor.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 13408
+      },
+      "writtenOn": "2015-07-31T04:58:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "bf091321_b389af27",
+      "range": {
+        "startLine": 93,
+        "startChar": 69,
+        "endLine": 93,
+        "endChar": 71
+      },
+      "revId": "c1e5882e40c92298b86990cfc6f33dd35bbe6796",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bf091321_73aaf785",
         "filename": "src/com/android/mms/ui/AttachmentEditor.java",
         "patchSetId": 2
@@ -36,6 +60,24 @@
       "writtenOn": "2015-07-31T04:51:04Z",
       "side": 1,
       "message": "extra line",
+      "revId": "c1e5882e40c92298b86990cfc6f33dd35bbe6796",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_b38e4f25",
+        "filename": "src/com/android/mms/ui/AttachmentEditor.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 13408
+      },
+      "writtenOn": "2015-07-31T04:58:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "bf091321_73aaf785",
       "revId": "c1e5882e40c92298b86990cfc6f33dd35bbe6796",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -59,6 +101,24 @@
     },
     {
       "key": {
+        "uuid": "bf091321_f376073f",
+        "filename": "src/com/android/mms/ui/AttachmentEditor.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 13408
+      },
+      "writtenOn": "2015-07-31T04:58:32Z",
+      "side": 1,
+      "message": "On line 193 of this file the createView method does:\n\n        SlideModel slide \u003d mSlideshow.get(0);\n\nTo decide how to create the \"slide\" card in the messaging interface. \n\nIt\u0027s weird, but thats the hardcoded position of the \"slide\".",
+      "parentUuid": "bf091321_73831706",
+      "revId": "c1e5882e40c92298b86990cfc6f33dd35bbe6796",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bf091321_938eab2c",
         "filename": "src/com/android/mms/ui/AttachmentEditor.java",
         "patchSetId": 2
@@ -70,6 +130,30 @@
       "writtenOn": "2015-07-31T04:51:04Z",
       "side": 1,
       "message": "wrong type",
+      "range": {
+        "startLine": 130,
+        "startChar": 44,
+        "endLine": 130,
+        "endChar": 48
+      },
+      "revId": "c1e5882e40c92298b86990cfc6f33dd35bbe6796",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf091321_d373034d",
+        "filename": "src/com/android/mms/ui/AttachmentEditor.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 130,
+      "author": {
+        "id": 13408
+      },
+      "writtenOn": "2015-07-31T04:58:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "bf091321_938eab2c",
       "range": {
         "startLine": 130,
         "startChar": 44,
