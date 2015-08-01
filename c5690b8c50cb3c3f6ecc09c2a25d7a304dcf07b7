@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf091321_c4b45b38",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 3740,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2015-08-01T05:42:59Z",
+      "side": 1,
+      "message": "This will cause afterTextChanged to be called twice if the list of recipients is long enough for truncation to occur.\n\nWe can mitigate that by removing the listener in pre-execute, and re-adding once finished.\n\nThoughts ?",
+      "revId": "c5690b8c50cb3c3f6ecc09c2a25d7a304dcf07b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
