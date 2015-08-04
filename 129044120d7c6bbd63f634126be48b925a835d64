@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f0e0f27_baef4de8",
+        "filename": "src/com/android/mms/MmsApp.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 127,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-08-04T05:07:06Z",
+      "side": 1,
+      "message": "can we make this work in onResume?  seems like a common use case would be to have messaging started already, then enable truecaller in the dialer... onCreate would not be called again when we return to messaging",
+      "revId": "129044120d7c6bbd63f634126be48b925a835d64",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f0e0f27_3ab57def",
+        "filename": "src/com/android/mms/MmsApp.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 255,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-08-04T05:07:06Z",
+      "side": 1,
+      "message": "this kind of counting logic always makes me a little nervous.  but we can revisit when we look into lazy binding to the service.  i\u0027m also thinking we don\u0027t necessarily need to tie this to the Application object (we could just have a static cache).  But again we can look at that if we do lazy binding.",
+      "revId": "129044120d7c6bbd63f634126be48b925a835d64",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f0e0f27_1ae199ff",
+        "filename": "src/com/android/mms/ui/ConversationListItem.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 301,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-08-04T05:07:06Z",
+      "side": 1,
+      "message": "i think we need to clear the attribution drawable initially  due to recycling",
+      "revId": "129044120d7c6bbd63f634126be48b925a835d64",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
