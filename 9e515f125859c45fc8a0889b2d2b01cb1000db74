@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "9f0e0f27_91c6ac16",
+        "filename": "src/com/android/mms/ui/MailboxMode/MailBoxMessageList.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1113,
+      "author": {
+        "id": 13760
+      },
+      "writtenOn": "2015-08-06T06:24:46Z",
+      "side": 1,
+      "message": "This was basically just a copy of the below method with a few modifications.  I agree with you, however.",
+      "parentUuid": "9f0e0f27_518254ca",
+      "revId": "9e515f125859c45fc8a0889b2d2b01cb1000db74",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9f0e0f27_71667854",
         "filename": "src/com/android/mms/ui/MailboxMode/MailBoxMessageList.java",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2015-08-06T06:20:03Z",
       "side": 1,
       "message": "could get away without declaring these variables - a bit more complex but not as long",
+      "revId": "9e515f125859c45fc8a0889b2d2b01cb1000db74",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f0e0f27_71cb181e",
+        "filename": "src/com/android/mms/ui/MailboxMode/MailBoxMessageList.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1120,
+      "author": {
+        "id": 13760
+      },
+      "writtenOn": "2015-08-06T06:24:46Z",
+      "side": 1,
+      "message": "See above",
+      "parentUuid": "9f0e0f27_71667854",
       "revId": "9e515f125859c45fc8a0889b2d2b01cb1000db74",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
