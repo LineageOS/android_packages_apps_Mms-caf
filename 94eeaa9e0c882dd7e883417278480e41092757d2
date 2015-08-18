@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f231b9d_767ae588",
+        "filename": "Android.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-08-18T23:32:10Z",
+      "side": 1,
+      "message": ":-|",
+      "revId": "94eeaa9e0c882dd7e883417278480e41092757d2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f231b9d_96d1015b",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 839,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-08-18T23:32:10Z",
+      "side": 1,
+      "message": "Can you guarantee this will always be not null at this point?",
+      "revId": "94eeaa9e0c882dd7e883417278480e41092757d2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
