@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f201791_6a679b27",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivityNoLockScreen.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-20T03:39:40Z",
+      "side": 1,
+      "message": "re-order the calls or remove the call to super altogether ?",
+      "range": {
+        "startLine": 35,
+        "startChar": 8,
+        "endLine": 36,
+        "endChar": 24
+      },
+      "revId": "0c2a3b674950476c218db82a785366e0760c7a6a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
