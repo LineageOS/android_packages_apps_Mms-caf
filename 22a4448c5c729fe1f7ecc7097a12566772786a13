@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f201791_ef097d31",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 4482,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-08-20T01:03:13Z",
+      "side": 1,
+      "message": "This is from the previous patch, but I feel like this logic is incorrect as it could be replaced by if (true) {}\n\nfirst \u003d 15\nlast \u003d 20\n\ncount \u003d 20 // literally cursor count\n\ndiff \u003d last - first + 1 // 6\n\n(count \u003e diff) \u003d\u003d true",
+      "revId": "22a4448c5c729fe1f7ecc7097a12566772786a13",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
