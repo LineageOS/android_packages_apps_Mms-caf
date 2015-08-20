@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f201791_9e9a3cc3",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 5526,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-20T05:29:39Z",
+      "side": 1,
+      "message": "rename vars",
+      "range": {
+        "startLine": 5525,
+        "startChar": 18,
+        "endLine": 5526,
+        "endChar": 28
+      },
+      "revId": "0e599ae1b89ee283f2c0eacdd7b3f6aa0a3efff9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
