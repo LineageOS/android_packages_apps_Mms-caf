@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "5f201791_6a2c3b99",
+        "filename": "Android.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-20T01:33:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7f231b9d_767ae588",
+      "revId": "94eeaa9e0c882dd7e883417278480e41092757d2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7f231b9d_96d1015b",
         "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
         "patchSetId": 4
@@ -30,6 +48,24 @@
       "writtenOn": "2015-08-18T23:32:10Z",
       "side": 1,
       "message": "Can you guarantee this will always be not null at this point?",
+      "revId": "94eeaa9e0c882dd7e883417278480e41092757d2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f201791_8a4c3777",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 839,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-20T01:33:46Z",
+      "side": 1,
+      "message": "yeah , this onItemClick is on the ListView within the popup. Can\u0027t get to that w/o the popup showing",
+      "parentUuid": "7f231b9d_96d1015b",
       "revId": "94eeaa9e0c882dd7e883417278480e41092757d2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
