@@ -1,0 +1,165 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f201791_f4e27101",
+        "filename": "res/drawable/recipient_autocomplete_dropdown_item_background.xml",
+        "patchSetId": 18
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-21T05:40:28Z",
+      "side": 1,
+      "message": "you should be able to combine these separate layer drawables into the ripple drawable using the \u003cselector\u003e tag\n\nyou can look at message_bubble_outgoing.xml for example",
+      "range": {
+        "startLine": 6,
+        "startChar": 28,
+        "endLine": 7,
+        "endChar": 73
+      },
+      "revId": "1185a5776372aa96c14be1e9550c7782dda9a4a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f201791_d71ad715",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 18
+      },
+      "lineNbr": 1827,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-21T05:40:28Z",
+      "side": 1,
+      "message": "you can do Toolbar.setTitle(resource_id)  instead",
+      "range": {
+        "startLine": 1822,
+        "startChar": 7,
+        "endLine": 1827,
+        "endChar": 33
+      },
+      "revId": "1185a5776372aa96c14be1e9550c7782dda9a4a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f201791_f7e27301",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 18
+      },
+      "lineNbr": 1926,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-21T05:40:28Z",
+      "side": 1,
+      "message": "use a dimension",
+      "range": {
+        "startLine": 1926,
+        "startChar": 30,
+        "endLine": 1926,
+        "endChar": 33
+      },
+      "revId": "1185a5776372aa96c14be1e9550c7782dda9a4a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f201791_7751c30e",
+        "filename": "src/com/android/mms/ui/RecipientsEditor.java",
+        "patchSetId": 18
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-21T05:40:28Z",
+      "side": 1,
+      "message": "can\u0027t we set a maxHeight on this view ? If not, we can retrieve/ store the max height once in an instance var",
+      "range": {
+        "startLine": 80,
+        "startChar": 8,
+        "endLine": 81,
+        "endChar": 46
+      },
+      "revId": "1185a5776372aa96c14be1e9550c7782dda9a4a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f201791_173bafd1",
+        "filename": "src/com/android/mms/ui/RecipientsEditor.java",
+        "patchSetId": 18
+      },
+      "lineNbr": 167,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-21T05:40:28Z",
+      "side": 1,
+      "message": "are we using RECIPIENT_ALTERNATES , if not, can we jst have it return super \u0027s layout instead",
+      "range": {
+        "startLine": 164,
+        "startChar": 20,
+        "endLine": 167,
+        "endChar": 62
+      },
+      "revId": "1185a5776372aa96c14be1e9550c7782dda9a4a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f201791_f79393a2",
+        "filename": "src/com/android/mms/ui/RecipientsEditor.java",
+        "patchSetId": 18
+      },
+      "lineNbr": 230,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-21T05:40:28Z",
+      "side": 1,
+      "message": "can we jst remove these redundant lines",
+      "range": {
+        "startLine": 228,
+        "startChar": 0,
+        "endLine": 230,
+        "endChar": 18
+      },
+      "revId": "1185a5776372aa96c14be1e9550c7782dda9a4a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f201791_972d7f48",
+        "filename": "src/com/android/mms/ui/RecipientsEditor.java",
+        "patchSetId": 18
+      },
+      "lineNbr": 438,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-21T05:40:28Z",
+      "side": 1,
+      "message": "It was throwing an AIOOB exception ?",
+      "range": {
+        "startLine": 436,
+        "startChar": 10,
+        "endLine": 438,
+        "endChar": 9
+      },
+      "revId": "1185a5776372aa96c14be1e9550c7782dda9a4a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
