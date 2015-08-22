@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "5f201791_b7ef5baf",
+        "filename": "res/drawable/recipient_autocomplete_dropdown_item_background.xml",
+        "patchSetId": 18
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-08-22T03:24:36Z",
+      "side": 1,
+      "message": "I had it combined, but I was having an issue with the selected state interfering.  This is working fine now, I would prefer to leave it as is unless there is something truly detrimental",
+      "parentUuid": "5f201791_f4e27101",
+      "range": {
+        "startLine": 6,
+        "startChar": 28,
+        "endLine": 7,
+        "endChar": 73
+      },
+      "revId": "1185a5776372aa96c14be1e9550c7782dda9a4a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5f201791_d71ad715",
         "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
         "patchSetId": 18
@@ -36,6 +60,30 @@
       "writtenOn": "2015-08-21T05:40:28Z",
       "side": 1,
       "message": "you can do Toolbar.setTitle(resource_id)  instead",
+      "range": {
+        "startLine": 1822,
+        "startChar": 7,
+        "endLine": 1827,
+        "endChar": 33
+      },
+      "revId": "1185a5776372aa96c14be1e9550c7782dda9a4a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f201791_0d24bc0c",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 18
+      },
+      "lineNbr": 1827,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-08-22T03:24:36Z",
+      "side": 1,
+      "message": "I\u0027m using a custom title/subtitle view for the toolbar.  If the title isn\u0027t set to empty, you will see the title twice.",
+      "parentUuid": "5f201791_d71ad715",
       "range": {
         "startLine": 1822,
         "startChar": 7,
@@ -71,6 +119,30 @@
     },
     {
       "key": {
+        "uuid": "5f201791_ad7828f8",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 18
+      },
+      "lineNbr": 1926,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-08-22T03:24:36Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5f201791_f7e27301",
+      "range": {
+        "startLine": 1926,
+        "startChar": 30,
+        "endLine": 1926,
+        "endChar": 33
+      },
+      "revId": "1185a5776372aa96c14be1e9550c7782dda9a4a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5f201791_7751c30e",
         "filename": "src/com/android/mms/ui/RecipientsEditor.java",
         "patchSetId": 18
@@ -82,6 +154,30 @@
       "writtenOn": "2015-08-21T05:40:28Z",
       "side": 1,
       "message": "can\u0027t we set a maxHeight on this view ? If not, we can retrieve/ store the max height once in an instance var",
+      "range": {
+        "startLine": 80,
+        "startChar": 8,
+        "endLine": 81,
+        "endChar": 46
+      },
+      "revId": "1185a5776372aa96c14be1e9550c7782dda9a4a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f201791_6d8210cb",
+        "filename": "src/com/android/mms/ui/RecipientsEditor.java",
+        "patchSetId": 18
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-08-22T03:24:36Z",
+      "side": 1,
+      "message": "setting the max height wasn\u0027t working, so I had to resort to overriding the measuring.  I can definitely cache the value though.",
+      "parentUuid": "5f201791_7751c30e",
       "range": {
         "startLine": 80,
         "startChar": 8,
@@ -117,6 +213,30 @@
     },
     {
       "key": {
+        "uuid": "5f201791_4d8754d9",
+        "filename": "src/com/android/mms/ui/RecipientsEditor.java",
+        "patchSetId": 18
+      },
+      "lineNbr": 167,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-08-22T03:24:36Z",
+      "side": 1,
+      "message": "It is being used.",
+      "parentUuid": "5f201791_173bafd1",
+      "range": {
+        "startLine": 164,
+        "startChar": 20,
+        "endLine": 167,
+        "endChar": 62
+      },
+      "revId": "1185a5776372aa96c14be1e9550c7782dda9a4a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5f201791_f79393a2",
         "filename": "src/com/android/mms/ui/RecipientsEditor.java",
         "patchSetId": 18
@@ -140,6 +260,30 @@
     },
     {
       "key": {
+        "uuid": "5f201791_0d695c24",
+        "filename": "src/com/android/mms/ui/RecipientsEditor.java",
+        "patchSetId": 18
+      },
+      "lineNbr": 230,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-08-22T03:24:36Z",
+      "side": 1,
+      "message": "its a non private method, and that is javadoc standard :-\\ but if you think its too much of an eyesore, sure.",
+      "parentUuid": "5f201791_f79393a2",
+      "range": {
+        "startLine": 228,
+        "startChar": 0,
+        "endLine": 230,
+        "endChar": 18
+      },
+      "revId": "1185a5776372aa96c14be1e9550c7782dda9a4a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5f201791_972d7f48",
         "filename": "src/com/android/mms/ui/RecipientsEditor.java",
         "patchSetId": 18
@@ -151,6 +295,30 @@
       "writtenOn": "2015-08-21T05:40:28Z",
       "side": 1,
       "message": "It was throwing an AIOOB exception ?",
+      "range": {
+        "startLine": 436,
+        "startChar": 10,
+        "endLine": 438,
+        "endChar": 9
+      },
+      "revId": "1185a5776372aa96c14be1e9550c7782dda9a4a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f201791_ed7500fc",
+        "filename": "src/com/android/mms/ui/RecipientsEditor.java",
+        "patchSetId": 18
+      },
+      "lineNbr": 438,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-08-22T03:24:36Z",
+      "side": 1,
+      "message": "it happened a few times, but I\u0027m not seeing it anymore.",
+      "parentUuid": "5f201791_972d7f48",
       "range": {
         "startLine": 436,
         "startChar": 10,
