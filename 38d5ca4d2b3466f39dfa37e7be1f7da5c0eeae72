@@ -1,0 +1,326 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_5ea4a208",
+        "filename": "res/drawable/ic_cancel_attachment.xml",
+        "patchSetId": 16
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-25T23:51:27Z",
+      "side": 1,
+      "message": "indent",
+      "range": {
+        "startLine": 14,
+        "startChar": 0,
+        "endLine": 14,
+        "endChar": 66
+      },
+      "revId": "38d5ca4d2b3466f39dfa37e7be1f7da5c0eeae72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_3ea9e6de",
+        "filename": "res/drawable/ic_generic_calendar.xml",
+        "patchSetId": 16
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-25T23:51:27Z",
+      "side": 1,
+      "message": "likewise",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 65
+      },
+      "revId": "38d5ca4d2b3466f39dfa37e7be1f7da5c0eeae72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_1eae2ae7",
+        "filename": "res/drawable/ic_generic_contacts.xml",
+        "patchSetId": 16
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-25T23:51:27Z",
+      "side": 1,
+      "message": "same",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 15,
+        "endChar": 17
+      },
+      "revId": "38d5ca4d2b3466f39dfa37e7be1f7da5c0eeae72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_beb4d636",
+        "filename": "res/drawable/ic_video_attachment_play.xml",
+        "patchSetId": 16
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-25T23:51:27Z",
+      "side": 1,
+      "message": "https://www.youtube.com/watch?v\u003dnvLEAc58-cY",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 13,
+        "endChar": 14
+      },
+      "revId": "38d5ca4d2b3466f39dfa37e7be1f7da5c0eeae72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_de90b298",
+        "filename": "res/layout/message_attachment_view.xml",
+        "patchSetId": 16
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-25T23:51:27Z",
+      "side": 1,
+      "message": "nice .. using em new tricks already",
+      "range": {
+        "startLine": 26,
+        "startChar": 4,
+        "endLine": 26,
+        "endChar": 45
+      },
+      "revId": "38d5ca4d2b3466f39dfa37e7be1f7da5c0eeae72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_9ee8fa16",
+        "filename": "res/layout/message_list_item_recv.xml",
+        "patchSetId": 16
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-25T23:51:27Z",
+      "side": 1,
+      "message": "\"all the time you have to leave da space\"\nhttps://youtu.be/FQwJMuwQ6t4",
+      "range": {
+        "startLine": 67,
+        "startChar": 12,
+        "endLine": 72,
+        "endChar": 25
+      },
+      "revId": "38d5ca4d2b3466f39dfa37e7be1f7da5c0eeae72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_3ef7a6f8",
+        "filename": "res/layout/simple_attachment_view.xml",
+        "patchSetId": 16
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-25T23:51:27Z",
+      "side": 1,
+      "message": "sublime text let you down",
+      "range": {
+        "startLine": 28,
+        "startChar": 0,
+        "endLine": 52,
+        "endChar": 45
+      },
+      "revId": "38d5ca4d2b3466f39dfa37e7be1f7da5c0eeae72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_1edcea72",
+        "filename": "res/layout/simple_pending_attachment_view.xml",
+        "patchSetId": 16
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-25T23:51:27Z",
+      "side": 1,
+      "message": "... on more than one occassion",
+      "range": {
+        "startLine": 24,
+        "startChar": 0,
+        "endLine": 30,
+        "endChar": 30
+      },
+      "revId": "38d5ca4d2b3466f39dfa37e7be1f7da5c0eeae72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_fed80e80",
+        "filename": "res/layout/text_attachment_view.xml",
+        "patchSetId": 16
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-25T23:51:27Z",
+      "side": 1,
+      "message": "more times",
+      "range": {
+        "startLine": 20,
+        "startChar": 0,
+        "endLine": 21,
+        "endChar": 28
+      },
+      "revId": "38d5ca4d2b3466f39dfa37e7be1f7da5c0eeae72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_dee5523a",
+        "filename": "res/values/cm_dimens.xml",
+        "patchSetId": 16
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-25T23:51:27Z",
+      "side": 1,
+      "message": "is there a reason to pull out \"cm_dimens\" , we won\u0027t have anything upstream to merge",
+      "range": {
+        "startLine": 8,
+        "startChar": 0,
+        "endLine": 8,
+        "endChar": 12
+      },
+      "revId": "38d5ca4d2b3466f39dfa37e7be1f7da5c0eeae72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_7ed63e52",
+        "filename": "src/com/android/mms/MmsApp.java",
+        "patchSetId": 16
+      },
+      "lineNbr": 138,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-25T23:51:27Z",
+      "side": 1,
+      "message": "docs on this method kinda indicate that it won\u0027t do what you want it to do \nhttp://developer.android.com/reference/android/app/Application.html#onTerminate()\n\nI went w/ an Activity \"ref counting\" logic for clearing TC lookup cache http://review.cyanogenmod.org/#/c/104046/3/src/com/android/mms/MmsApp.java",
+      "range": {
+        "startLine": 135,
+        "startChar": 16,
+        "endLine": 138,
+        "endChar": 48
+      },
+      "revId": "38d5ca4d2b3466f39dfa37e7be1f7da5c0eeae72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_1e4aaa26",
+        "filename": "src/com/android/mms/MmsConfig.java",
+        "patchSetId": 16
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-25T23:51:27Z",
+      "side": 1,
+      "message": "is this for when we add attachments to a msg being sent or when we receive a slideshow",
+      "range": {
+        "startLine": 116,
+        "startChar": 23,
+        "endLine": 116,
+        "endChar": 36
+      },
+      "revId": "38d5ca4d2b3466f39dfa37e7be1f7da5c0eeae72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_de5312e2",
+        "filename": "src/com/android/mms/data/WorkingMessage.java",
+        "patchSetId": 16
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-25T23:51:27Z",
+      "side": 1,
+      "message": "#IDEfail",
+      "range": {
+        "startLine": 58,
+        "startChar": 19,
+        "endLine": 58,
+        "endChar": 31
+      },
+      "revId": "38d5ca4d2b3466f39dfa37e7be1f7da5c0eeae72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_5e0ee2e5",
+        "filename": "src/com/android/mms/presenters/RecyclePresenter.java",
+        "patchSetId": 16
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-25T23:51:27Z",
+      "side": 1,
+      "message": "comments around this would help",
+      "range": {
+        "startLine": 16,
+        "startChar": 8,
+        "endLine": 18,
+        "endChar": 79
+      },
+      "revId": "38d5ca4d2b3466f39dfa37e7be1f7da5c0eeae72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
