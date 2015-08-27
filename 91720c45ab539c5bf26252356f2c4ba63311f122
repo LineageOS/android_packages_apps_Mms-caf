@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_747d3de6",
+        "filename": "res/values/styles.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 12937
+      },
+      "writtenOn": "2015-08-27T21:09:31Z",
+      "side": 1,
+      "message": "colors",
+      "revId": "91720c45ab539c5bf26252356f2c4ba63311f122",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_548241ca",
+        "filename": "src/com/android/mms/quickmessage/QuickMessagePopup.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 198,
+      "author": {
+        "id": 12937
+      },
+      "writtenOn": "2015-08-27T21:09:31Z",
+      "side": 1,
+      "message": "color",
+      "range": {
+        "startLine": 198,
+        "startChar": 67,
+        "endLine": 198,
+        "endChar": 68
+      },
+      "revId": "91720c45ab539c5bf26252356f2c4ba63311f122",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
