@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_b41d15bf",
+        "filename": "src/com/android/mms/data/WorkingMessage.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 748,
+      "author": {
+        "id": 12937
+      },
+      "writtenOn": "2015-08-27T20:57:39Z",
+      "side": 1,
+      "message": "I\u0027d leave in the bit about passing in an empty string, but update it to reflect the new expected behavior.",
+      "revId": "73d280adb895660a0f81754bed1e2f31c5700be8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
