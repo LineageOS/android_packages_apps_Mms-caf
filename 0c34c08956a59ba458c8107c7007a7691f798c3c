@@ -42,6 +42,24 @@
     },
     {
       "key": {
+        "uuid": "3f1d235d_ef917af3",
+        "filename": "Android.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-28T23:27:26Z",
+      "side": 1,
+      "message": "yeah , this needs to be un-commented",
+      "parentUuid": "3f1d235d_d42d31a9",
+      "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3f1d235d_cf4b5eae",
         "filename": "src/com/android/mms/MmsApp.java",
         "patchSetId": 4
@@ -53,6 +71,24 @@
       "writtenOn": "2015-08-28T23:03:54Z",
       "side": 1,
       "message": "I\u0027m still unsure what you mean to accomplish by this that the normal lifecycle of an app doesn\u0027t give you?  I mean, couldn\u0027t you just tear down in onTerminate()?  Do you mean to do this since the service(s) will be running which do not need this and you want to save a thread running if not necessary?  Maybe you should add some comments as to why you decided to use this method for future clarity if that is the case.",
+      "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_4fa3ce50",
+        "filename": "src/com/android/mms/MmsApp.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 244,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-28T23:27:26Z",
+      "side": 1,
+      "message": "can\u0027t use Application#onTerminate()\n    /**\n     * This method is for use in emulated process environments.  It will\n     * never be called on a production Android device, where processes are\n     * removed by simply killing them; no user code (including this callback)\n     * is executed when doing so.\n     */\n    public void onTerminate() {\n    }\n\n.. so this is the next best approximation",
+      "parentUuid": "3f1d235d_cf4b5eae",
       "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
