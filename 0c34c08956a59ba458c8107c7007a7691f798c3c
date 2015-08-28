@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_afef0286",
+        "filename": "Android.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-28T22:59:11Z",
+      "side": 1,
+      "message": "alignment",
+      "range": {
+        "startLine": 48,
+        "startChar": 0,
+        "endLine": 51,
+        "endChar": 12
+      },
+      "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_8fcb261d",
+        "filename": "src/com/android/mms/MmsApp.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 256,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-28T22:59:11Z",
+      "side": 1,
+      "message": "might have to bring back HandlerThread#quit() , cause this the impl of Thread#destroy()\n\n@Deprecated\npublic void destroy() {\n    throw new UnsupportedOperationException();\n}",
+      "range": {
+        "startLine": 256,
+        "startChar": 12,
+        "endLine": 256,
+        "endChar": 43
+      },
+      "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_2fdad2e8",
+        "filename": "src/com/android/mms/MmsApp.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 309,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-28T22:59:11Z",
+      "side": 1,
+      "message": "my derp",
+      "range": {
+        "startLine": 309,
+        "startChar": 8,
+        "endLine": 309,
+        "endChar": 16
+      },
+      "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_0fd716c2",
+        "filename": "src/com/android/mms/MmsApp.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 315,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-28T22:59:11Z",
+      "side": 1,
+      "message": "might need to add a comment explaining why getLookupHandler(), when called here, will return an already created and initialized instance of LookupHandlerThread",
+      "range": {
+        "startLine": 315,
+        "startChar": 15,
+        "endLine": 315,
+        "endChar": 49
+      },
+      "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_ef4e1ac0",
+        "filename": "src/com/android/mms/MmsApp.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 350,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-28T22:59:11Z",
+      "side": 1,
+      "message": "we will have to move this to onResume() cause onStart might not be called when you come back to an Activity , especially if that activity wasn\u0027t killed",
+      "range": {
+        "startLine": 346,
+        "startChar": 8,
+        "endLine": 350,
+        "endChar": 9
+      },
+      "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
