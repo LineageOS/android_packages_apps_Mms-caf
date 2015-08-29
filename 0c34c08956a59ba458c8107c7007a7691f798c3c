@@ -366,6 +366,24 @@
       "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_6aaaf885",
+        "filename": "src/com/android/mms/util/ImageUtils.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 185,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-29T02:28:01Z",
+      "side": 1,
+      "message": "This class was kanged from DialerNext. We should have created a shared library for anyone to use, but that might be further down the line. We can remove it for now.",
+      "parentUuid": "3f1d235d_4aba9cde",
+      "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
