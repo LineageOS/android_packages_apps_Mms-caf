@@ -348,6 +348,24 @@
       "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_4aba9cde",
+        "filename": "src/com/android/mms/util/ImageUtils.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 185,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-08-29T02:03:33Z",
+      "side": 1,
+      "message": "should i delete this function?",
+      "parentUuid": "3f1d235d_cabb4c0c",
+      "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
