@@ -77,6 +77,24 @@
     },
     {
       "key": {
+        "uuid": "3f1d235d_4ad05c51",
+        "filename": "res/layout/message_list_item_sent.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-29T01:34:47Z",
+      "side": 1,
+      "message": "looks like a rebasing issue cause the patch is soo old\nThe avatar used to be in that spot. I moved that down in the xml file (cause we don\u0027t use it for outgoing msgs but still need the view cause of shared MLI). This ImageView is a legit delivered indicator.",
+      "parentUuid": "3f1d235d_8a51d411",
+      "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3f1d235d_cf4b5eae",
         "filename": "src/com/android/mms/MmsApp.java",
         "patchSetId": 4
@@ -227,6 +245,30 @@
     },
     {
       "key": {
+        "uuid": "3f1d235d_2ac5208f",
+        "filename": "src/com/android/mms/ui/MessageListAdapter.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 280,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-29T01:34:47Z",
+      "side": 1,
+      "message": "agree, we have the batching logic implemented in DialerNext already",
+      "parentUuid": "3f1d235d_2a976093",
+      "range": {
+        "startLine": 280,
+        "startChar": 8,
+        "endLine": 280,
+        "endChar": 28
+      },
+      "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3f1d235d_8aed5427",
         "filename": "src/com/android/mms/ui/MessageListItem.java",
         "patchSetId": 4
@@ -250,6 +292,30 @@
     },
     {
       "key": {
+        "uuid": "3f1d235d_0ac26486",
+        "filename": "src/com/android/mms/ui/MessageListItem.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 467,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-29T01:34:47Z",
+      "side": 1,
+      "message": "good catch , this method was in MessageUtils before i think",
+      "parentUuid": "3f1d235d_8aed5427",
+      "range": {
+        "startLine": 467,
+        "startChar": 55,
+        "endLine": 467,
+        "endChar": 56
+      },
+      "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3f1d235d_eae5e839",
         "filename": "src/com/android/mms/util/ImageUtils.java",
         "patchSetId": 4
@@ -261,6 +327,24 @@
       "writtenOn": "2015-08-29T01:18:23Z",
       "side": 1,
       "message": "This might be a good place to use that transient state stuff we learned.\n\nThat ensures the listview doesn\u0027t try and re-use this view for another row while the animation is still going.",
+      "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_cabb4c0c",
+        "filename": "src/com/android/mms/util/ImageUtils.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 185,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-08-29T01:34:47Z",
+      "side": 1,
+      "message": "don\u0027t use this helper function in ImageUtils",
+      "parentUuid": "3f1d235d_eae5e839",
       "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
