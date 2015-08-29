@@ -60,6 +60,23 @@
     },
     {
       "key": {
+        "uuid": "3f1d235d_8a51d411",
+        "filename": "res/layout/message_list_item_sent.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2015-08-29T01:18:23Z",
+      "side": 1,
+      "message": "Why would the delivered_indicator need to be a QuickContactBadge ?",
+      "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3f1d235d_cf4b5eae",
         "filename": "src/com/android/mms/MmsApp.java",
         "patchSetId": 4
@@ -181,6 +198,69 @@
         "endLine": 350,
         "endChar": 9
       },
+      "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_2a976093",
+        "filename": "src/com/android/mms/ui/MessageListAdapter.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 280,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2015-08-29T01:18:23Z",
+      "side": 1,
+      "message": "Worried, if the info is coming in one at a time, can we batch the updates ? Delay by 100ms or something.",
+      "range": {
+        "startLine": 280,
+        "startChar": 8,
+        "endLine": 280,
+        "endChar": 28
+      },
+      "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_8aed5427",
+        "filename": "src/com/android/mms/ui/MessageListItem.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 467,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2015-08-29T01:18:23Z",
+      "side": 1,
+      "message": "Any point in passing in the MLI instance, since its a private instance method ?",
+      "range": {
+        "startLine": 467,
+        "startChar": 55,
+        "endLine": 467,
+        "endChar": 56
+      },
+      "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_eae5e839",
+        "filename": "src/com/android/mms/util/ImageUtils.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 185,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2015-08-29T01:18:23Z",
+      "side": 1,
+      "message": "This might be a good place to use that transient state stuff we learned.\n\nThat ensures the listview doesn\u0027t try and re-use this view for another row while the animation is still going.",
       "revId": "0c34c08956a59ba458c8107c7007a7691f798c3c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
