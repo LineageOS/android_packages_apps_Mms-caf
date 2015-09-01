@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_2fae4b2e",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 22
+      },
+      "lineNbr": 1953,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-09-01T23:16:12Z",
+      "side": 1,
+      "message": "would we need to invert this for RTL?",
+      "revId": "3ca49e4922cf3918b70d6e2fb915a63aad669f59",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_8f9e7f05",
+        "filename": "src/com/android/mms/ui/RecipientsEditor.java",
+        "patchSetId": 22
+      },
+      "lineNbr": 224,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-09-01T23:16:12Z",
+      "side": 1,
+      "message": "remove this.  or if we need it change to Log.d with a real tag",
+      "revId": "3ca49e4922cf3918b70d6e2fb915a63aad669f59",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
