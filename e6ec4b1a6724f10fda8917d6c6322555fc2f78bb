@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_6f2683ba",
+        "filename": "res/layout/message_search.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-09-01T05:29:05Z",
+      "side": 1,
+      "message": "Still unneeded",
+      "revId": "e6ec4b1a6724f10fda8917d6c6322555fc2f78bb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
