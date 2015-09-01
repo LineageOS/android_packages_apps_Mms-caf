@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_6c5b312e",
+        "filename": "src/com/android/mms/MmsApp.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 256,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-09-01T01:19:06Z",
+      "side": 1,
+      "message": "packages/apps/Mms/src/com/android/mms/MmsApp.java:256: error: cannot find symbol\n            mLookupHandlerThread.tearDown();\n\n  symbol:   method tearDown()\n  location: variable mLookupHandlerThread of type LookupHandlerThread",
+      "revId": "163c6599317526856287d4c2a16e2d95fcddbdf5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_4c407536",
+        "filename": "src/com/android/mms/MmsApp.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 355,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-09-01T01:19:06Z",
+      "side": 1,
+      "message": "packages/apps/Mms/src/com/android/mms/MmsApp.java:355: error: cannot find symbol\n        if (isPhoneNumberLookupInitialized \u0026\u0026 !getLookupHandlerThread().isProviderEnabled()) {\n                                                                       ^\n  symbol:   method isProviderEnabled()\n  location: class LookupHandlerThread",
+      "revId": "163c6599317526856287d4c2a16e2d95fcddbdf5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
