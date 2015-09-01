@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_ac502934",
+        "filename": "src/com/android/mms/ui/ConversationListItem.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 198,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-09-01T04:13:28Z",
+      "side": 0,
+      "message": "double check mocks",
+      "revId": "4c9f8af79d7bd36dd9a2b7032a722fb28f1cd0f6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

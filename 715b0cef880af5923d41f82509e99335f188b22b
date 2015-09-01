@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_ec7ce1b6",
+        "filename": "res/layout/conversation_list_item.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-09-01T04:13:28Z",
+      "side": 1,
+      "message": "remove comment",
+      "revId": "715b0cef880af5923d41f82509e99335f188b22b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_cc4b6585",
+        "filename": "res/layout/message_search.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-09-01T04:13:28Z",
+      "side": 1,
+      "message": "not needed",
+      "revId": "715b0cef880af5923d41f82509e99335f188b22b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_6c71f1e0",
+        "filename": "src/com/android/mms/ui/ConversationListItemInfo.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-09-01T04:13:28Z",
+      "side": 1,
+      "message": "get width directly",
+      "revId": "715b0cef880af5923d41f82509e99335f188b22b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
