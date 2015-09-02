@@ -16,6 +16,24 @@
       "revId": "8c97163892adf8cf196c117880d6359392f22b28",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_00923cf7",
+        "filename": "src/com/android/mms/blacklist/BlockCallerDialogFragment.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-09-02T23:58:09Z",
+      "side": 1,
+      "message": "yeah, the idea is it\u0027s a wannabe constant. :-|",
+      "parentUuid": "3f1d235d_408834c5",
+      "revId": "8c97163892adf8cf196c117880d6359392f22b28",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
