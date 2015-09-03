@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_0d6034ce",
+        "filename": "src/com/android/mms/data/MessageInfoCache.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-09-03T04:57:33Z",
+      "side": 1,
+      "message": "avoid O(n)",
+      "revId": "993e464a4c7858ff4324ac79f2068f5c5e4a1c5f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_6d40c836",
+        "filename": "src/com/android/mms/data/MessageInfoCache.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 159,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-09-03T04:57:33Z",
+      "side": 1,
+      "message": "rename mimeTypeCacheCount",
+      "revId": "993e464a4c7858ff4324ac79f2068f5c5e4a1c5f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_4d662cf0",
+        "filename": "src/com/android/mms/data/MessageInfoCache.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 175,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-09-03T04:57:33Z",
+      "side": 1,
+      "message": "* getMimeTypesForCursorAtPosition\n    - sucks up next mime type\n    - returns list mime types\n* advanceToNextMessageId\n    - sucks up next mime type\n\n\nwhile(cursor.hasNext()) {\n    \n    if (in cache) {\n        advanceToNextMessageId\n    } else {\n        getMimeTypesForCursorAtPosition\n        update cache\n    }\n}",
+      "revId": "993e464a4c7858ff4324ac79f2068f5c5e4a1c5f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
