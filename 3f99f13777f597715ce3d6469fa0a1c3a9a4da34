@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_7b452170",
+        "filename": "src/com/android/mms/data/ContactList.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2015-09-03T03:43:47Z",
+      "side": 1,
+      "message": "use name variable directly.",
+      "revId": "3f99f13777f597715ce3d6469fa0a1c3a9a4da34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
