@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_9b18fdd3",
+        "filename": "res/layout/confirm_phone_number.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2015-09-03T03:14:33Z",
+      "side": 1,
+      "message": "License header",
+      "revId": "99e5586a9aaca586e5992ba0b99b3753d2358376",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_3b27a915",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 430,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2015-09-03T03:14:33Z",
+      "side": 1,
+      "message": "might need translatable\u003d\"false\" ?",
+      "revId": "99e5586a9aaca586e5992ba0b99b3753d2358376",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_3b556951",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 3991,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2015-09-03T03:14:33Z",
+      "side": 1,
+      "message": "use slotId ?",
+      "revId": "99e5586a9aaca586e5992ba0b99b3753d2358376",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_9b7d9de9",
+        "filename": "src/com/android/mms/ui/MessageUtils.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2716,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2015-09-03T03:14:33Z",
+      "side": 1,
+      "message": "Close the cursor and check if its null",
+      "revId": "99e5586a9aaca586e5992ba0b99b3753d2358376",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
