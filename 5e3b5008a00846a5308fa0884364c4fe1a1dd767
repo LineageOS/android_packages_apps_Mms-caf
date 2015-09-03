@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_8d3fa4d5",
+        "filename": "src/com/android/mms/ui/MessageUtils.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 2712,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-09-03T22:58:46Z",
+      "side": 1,
+      "message": "might be better encapsulation to go through subscription manager? SubscriptionManager.getActiveSubscriptionInfoForSimSlotIndex returns a SubscsriptionInfo object that has ICC ID",
+      "revId": "5e3b5008a00846a5308fa0884364c4fe1a1dd767",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
