@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff346bd7_f893895b",
+        "filename": "src/com/android/mms/data/WorkingMessage.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1554,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2015-09-17T15:02:39Z",
+      "side": 1,
+      "message": "Shouldn\u0027t snippet of code go in early stage of code (in line 1533)?",
+      "range": {
+        "startLine": 1554,
+        "startChar": 18,
+        "endLine": 1554,
+        "endChar": 19
+      },
+      "revId": "c886327a2fea7ea38d5dc29026d0121aaa3e772d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
