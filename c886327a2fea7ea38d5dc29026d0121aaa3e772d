@@ -22,6 +22,30 @@
       "revId": "c886327a2fea7ea38d5dc29026d0121aaa3e772d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff346bd7_f85ee943",
+        "filename": "src/com/android/mms/data/WorkingMessage.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1554,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-09-17T22:36:02Z",
+      "side": 1,
+      "message": "I\u0027d say 1533 would be fine, unless finalResize(Uri) modifies the mmsUri then it should be on line 1549.  \n\nHowever, this was cherry-picked from mainline, so it might be better to discuss an optimization on the mainline patch: http://review.cyanogenmod.org/#/c/102396/4\n\nThen it should propagate to stable.",
+      "parentUuid": "ff346bd7_f893895b",
+      "range": {
+        "startLine": 1554,
+        "startChar": 18,
+        "endLine": 1554,
+        "endChar": 19
+      },
+      "revId": "c886327a2fea7ea38d5dc29026d0121aaa3e772d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
