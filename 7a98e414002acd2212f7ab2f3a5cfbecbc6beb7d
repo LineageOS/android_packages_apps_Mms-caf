@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df3967d1_06cb8853",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-09-25T23:13:08Z",
+      "side": 1,
+      "message": "Try to keep the title of the commit messages to 75, unless it absolutely can\u0027t be avoidable.",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 71
+      },
+      "revId": "7a98e414002acd2212f7ab2f3a5cfbecbc6beb7d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df3967d1_e6c76445",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-09-25T23:13:08Z",
+      "side": 1,
+      "message": "Can you also add the Jira ticket above Change-id ? If the jira ticket URL is https://jira.cyngn.com/browse/MMS-38, the bare minimum you need to add is  \"MMS-38\". There is a gerrit plugin that parses commit msgs and auto-links it to the apropos jira url. You can look at the previous commit msgs for examples.",
+      "range": {
+        "startLine": 9,
+        "startChar": 11,
+        "endLine": 9,
+        "endChar": 52
+      },
+      "revId": "7a98e414002acd2212f7ab2f3a5cfbecbc6beb7d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
