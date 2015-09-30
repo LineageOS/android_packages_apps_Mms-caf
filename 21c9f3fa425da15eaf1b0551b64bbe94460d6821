@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f436f4f_951d64bf",
+        "filename": "src/com/android/mms/presenters/TextPresenter.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-09-30T23:07:46Z",
+      "side": 1,
+      "message": "good fix , but need to change a few things that are a result of a patch before yours. \n\nWe shouldn\u0027t be referencing \"resources\" like colors directly, as it makes it harder to theme the app later on. Themes can override/overlay resource files, but cant touch src code.\n\n We missed this on the last code review that let in Color.WHITE and Color.BLACK references. Do you mind defining the proper color resources in colors.xml and referencing those in code instead - Lines 40 and 43.\n\nThanks",
+      "range": {
+        "startLine": 40,
+        "startChar": 8,
+        "endLine": 44,
+        "endChar": 9
+      },
+      "revId": "21c9f3fa425da15eaf1b0551b64bbe94460d6821",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
