@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f436f4f_d53acc32",
+        "filename": "src/com/android/mms/model/CarrierContentRestriction.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-09-30T22:54:10Z",
+      "side": 1,
+      "message": "why not define this in ContentType.java and have it be part of the ArrayList that #getAudioTypes() returns",
+      "range": {
+        "startLine": 41,
+        "startChar": 8,
+        "endLine": 41,
+        "endChar": 46
+      },
+      "revId": "8abbe249e43b231b8c4dd0e37bb967d7ac04a511",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
