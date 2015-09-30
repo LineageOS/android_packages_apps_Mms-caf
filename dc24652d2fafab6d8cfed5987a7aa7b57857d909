@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f436f4f_35e6b8ea",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 414,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-09-30T22:36:56Z",
+      "side": 1,
+      "message": "you might want to rename this to \u0027mIsNewIntent\u0027. \u0027mNewIntent\u0027 makes it seem like it\u0027s a reference to the new intent",
+      "range": {
+        "startLine": 414,
+        "startChar": 20,
+        "endLine": 414,
+        "endChar": 30
+      },
+      "revId": "dc24652d2fafab6d8cfed5987a7aa7b57857d909",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f436f4f_d5cc0c63",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 418,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-09-30T22:36:56Z",
+      "side": 1,
+      "message": "Might want to move this comment inside BackgroundQueryHandler where you are using this value. Kinda feels misplaced to have this next to the variable\u0027s declaration.",
+      "range": {
+        "startLine": 415,
+        "startChar": 44,
+        "endLine": 418,
+        "endChar": 67
+      },
+      "revId": "dc24652d2fafab6d8cfed5987a7aa7b57857d909",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f436f4f_b5d98823",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1896,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-09-30T22:36:56Z",
+      "side": 1,
+      "message": "you can skip this , booleans are automatically initialized to false",
+      "range": {
+        "startLine": 1896,
+        "startChar": 6,
+        "endLine": 1896,
+        "endChar": 27
+      },
+      "revId": "dc24652d2fafab6d8cfed5987a7aa7b57857d909",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f436f4f_15ebb4b0",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2228,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-09-30T22:36:56Z",
+      "side": 1,
+      "message": "This seems like a bug ; we are initializing using the old thread id ?",
+      "range": {
+        "startLine": 2228,
+        "startChar": 12,
+        "endLine": 2228,
+        "endChar": 47
+      },
+      "revId": "dc24652d2fafab6d8cfed5987a7aa7b57857d909",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f436f4f_35ffd868",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 5099,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-09-30T22:36:56Z",
+      "side": 1,
+      "message": "line length caps @ 100 chars",
+      "range": {
+        "startLine": 5099,
+        "startChar": 27,
+        "endLine": 5099,
+        "endChar": 115
+      },
+      "revId": "dc24652d2fafab6d8cfed5987a7aa7b57857d909",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
