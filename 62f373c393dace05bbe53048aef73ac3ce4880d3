@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f436f4f_63c00a52",
+        "filename": "res/drawable/widget_background_default.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1448
+      },
+      "writtenOn": "2015-10-01T23:22:06Z",
+      "side": 1,
+      "message": "Externalize these colors",
+      "range": {
+        "startLine": 12,
+        "startChar": 43,
+        "endLine": 12,
+        "endChar": 44
+      },
+      "revId": "62f373c393dace05bbe53048aef73ac3ce4880d3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
