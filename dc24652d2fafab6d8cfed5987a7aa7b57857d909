@@ -94,6 +94,30 @@
     },
     {
       "key": {
+        "uuid": "9f436f4f_03693ebd",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2228,
+      "author": {
+        "id": 14113
+      },
+      "writtenOn": "2015-10-01T21:14:46Z",
+      "side": 1,
+      "message": "This is not a bug, the oldThreadId is used inside for logging purposes to make sure that the new conversation doesn\u0027t have the same threadId as the oldThreadId, and if so, will log an error",
+      "parentUuid": "9f436f4f_15ebb4b0",
+      "range": {
+        "startLine": 2228,
+        "startChar": 12,
+        "endLine": 2228,
+        "endChar": 47
+      },
+      "revId": "dc24652d2fafab6d8cfed5987a7aa7b57857d909",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9f436f4f_35ffd868",
         "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
         "patchSetId": 1
