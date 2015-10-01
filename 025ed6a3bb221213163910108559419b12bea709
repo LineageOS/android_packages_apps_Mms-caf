@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f436f4f_f83dc52c",
+        "filename": "src/com/android/mms/quickmessage/QuickMessagePopup.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 317,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-10-01T08:41:41Z",
+      "side": 1,
+      "message": "mSendButtonContactImageTask can be null",
+      "revId": "025ed6a3bb221213163910108559419b12bea709",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
