@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "9f436f4f_7eef7d87",
+        "filename": "src/com/android/mms/ui/ConversationListItem.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 1448
+      },
+      "writtenOn": "2015-10-02T06:41:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9f436f4f_be4725bd",
+      "revId": "f2a2e92c10227770cc7a13f1fbedd2866bc33ca3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9f436f4f_5e1839d2",
         "filename": "src/com/android/mms/ui/ConversationListItem.java",
         "patchSetId": 1
@@ -36,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "9f436f4f_5ecb991d",
+        "filename": "src/com/android/mms/ui/ConversationListItem.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 1448
+      },
+      "writtenOn": "2015-10-02T06:41:42Z",
+      "side": 1,
+      "message": "Good catch.",
+      "parentUuid": "9f436f4f_5e1839d2",
+      "revId": "f2a2e92c10227770cc7a13f1fbedd2866bc33ca3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9f436f4f_9e4461b9",
         "filename": "src/com/android/mms/ui/ConversationListItem.java",
         "patchSetId": 1
@@ -47,6 +83,24 @@
       "writtenOn": "2015-10-02T06:08:49Z",
       "side": 1,
       "message": "do we care about making a Log.e here?  maybe not worth it",
+      "revId": "f2a2e92c10227770cc7a13f1fbedd2866bc33ca3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f436f4f_3ed0d5c9",
+        "filename": "src/com/android/mms/ui/ConversationListItem.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 1448
+      },
+      "writtenOn": "2015-10-02T06:41:42Z",
+      "side": 1,
+      "message": "This mimics the behavior in ContactsContract.",
+      "parentUuid": "9f436f4f_9e4461b9",
       "revId": "f2a2e92c10227770cc7a13f1fbedd2866bc33ca3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
