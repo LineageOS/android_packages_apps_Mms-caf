@@ -22,6 +22,30 @@
       "revId": "991d5834df7aeb04a20e64d3abd5e13129f06c47",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f436f4f_dec78945",
+        "filename": "res/layout/dialog_quickmessage.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 14131
+      },
+      "writtenOn": "2015-10-02T05:07:57Z",
+      "side": 0,
+      "message": "For ldpi I have reduced this dimension by 15dp so that this issue should not occur. But without the ldpi device I am unable to test it.",
+      "parentUuid": "9f436f4f_83308e09",
+      "range": {
+        "startLine": 28,
+        "startChar": 9,
+        "endLine": 28,
+        "endChar": 56
+      },
+      "revId": "991d5834df7aeb04a20e64d3abd5e13129f06c47",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
