@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f436f4f_dead4932",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 8
+      },
+      "lineNbr": 2472,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-10-02T07:53:33Z",
+      "side": 1,
+      "message": "Are we sure we don\u0027t need to mark as read here?  I know the other we specify to block the mark as read and it looked like a hack to dismiss the notification.  Is that the case here?",
+      "revId": "d7ba66f4fa9d3d05600f24949a96b79b067a5423",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
