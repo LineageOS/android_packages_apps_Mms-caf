@@ -16,6 +16,24 @@
       "revId": "d7ba66f4fa9d3d05600f24949a96b79b067a5423",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f436f4f_7e309d08",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 8
+      },
+      "lineNbr": 2472,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-02T09:55:03Z",
+      "side": 1,
+      "message": "There were a couple of reasons for removing this and other markAsRead() calls. Firstly, there were a slew of them splattered around for no apparent reason. So I wanted onPause to be where the conversation gets marked as read.\n\nSecondly, there is a race condition w/ trying to figure out where the new messages are (to display the \u0027New Messages\u0027 header) marking messages as read (twice!) in the process of loading them.",
+      "parentUuid": "9f436f4f_dead4932",
+      "revId": "d7ba66f4fa9d3d05600f24949a96b79b067a5423",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
