@@ -22,6 +22,30 @@
       "revId": "8abbe249e43b231b8c4dd0e37bb967d7ac04a511",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f436f4f_7edc1d18",
+        "filename": "src/com/android/mms/model/CarrierContentRestriction.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 14113
+      },
+      "writtenOn": "2015-10-02T05:15:51Z",
+      "side": 1,
+      "message": "This would require framework change. Google doesn\u0027t have this in ContentType.java, so they must be doing it in the app. Just trying to stay consistent with them and minimize the scope of changes.",
+      "parentUuid": "9f436f4f_d53acc32",
+      "range": {
+        "startLine": 41,
+        "startChar": 8,
+        "endLine": 41,
+        "endChar": 46
+      },
+      "revId": "8abbe249e43b231b8c4dd0e37bb967d7ac04a511",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
