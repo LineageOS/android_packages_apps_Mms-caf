@@ -16,6 +16,24 @@
       "revId": "e8b9f7af574ab6aa70ee601e08d0a06b7db521c6",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f436f4f_5ed71925",
+        "filename": "src/com/android/mms/ui/ConversationList.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 212,
+      "author": {
+        "id": 14113
+      },
+      "writtenOn": "2015-10-02T03:52:23Z",
+      "side": 1,
+      "message": "A flag telling us when ActionContextMenu is enabled. Maybe should\u0027ve called it active.  When set, tells the onOptionsItemSelected (when Menu button is pressed) to pass processing of menu items to onActionItemClicked() so that we don\u0027t have to repeat all of the onActionItemClicked() code inside onOptionsItemSelected()",
+      "parentUuid": "9f436f4f_9efea1ac",
+      "revId": "e8b9f7af574ab6aa70ee601e08d0a06b7db521c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
