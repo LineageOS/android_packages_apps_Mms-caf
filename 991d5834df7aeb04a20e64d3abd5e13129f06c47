@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f436f4f_83308e09",
+        "filename": "res/layout/dialog_quickmessage.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-02T01:40:51Z",
+      "side": 0,
+      "message": "i think this is the line thats causing the problem. This bug got triggered for a lower dp device. With the current fix , we might run into this issue again if we go to a lower dpi device.",
+      "range": {
+        "startLine": 28,
+        "startChar": 9,
+        "endLine": 28,
+        "endChar": 56
+      },
+      "revId": "991d5834df7aeb04a20e64d3abd5e13129f06c47",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

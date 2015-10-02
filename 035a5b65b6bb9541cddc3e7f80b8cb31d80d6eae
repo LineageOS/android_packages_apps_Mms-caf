@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f436f4f_233fa2d7",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-02T01:40:51Z",
+      "side": 1,
+      "message": "you can remove the ticket number from the title as you already have it listed below",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 13
+      },
+      "revId": "035a5b65b6bb9541cddc3e7f80b8cb31d80d6eae",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f436f4f_433aa6e7",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-02T01:40:51Z",
+      "side": 1,
+      "message": "line wrap the commit msgs @ 70-80 chars / line",
+      "range": {
+        "startLine": 9,
+        "startChar": 63,
+        "endLine": 9,
+        "endChar": 93
+      },
+      "revId": "035a5b65b6bb9541cddc3e7f80b8cb31d80d6eae",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
