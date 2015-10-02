@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f436f4f_be4725bd",
+        "filename": "src/com/android/mms/ui/ConversationListItem.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-10-02T06:08:49Z",
+      "side": 1,
+      "message": "dat line length",
+      "revId": "f2a2e92c10227770cc7a13f1fbedd2866bc33ca3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f436f4f_5e1839d2",
+        "filename": "src/com/android/mms/ui/ConversationListItem.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-10-02T06:08:49Z",
+      "side": 1,
+      "message": "Since this is a callback listener, could mContext be null?",
+      "revId": "f2a2e92c10227770cc7a13f1fbedd2866bc33ca3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f436f4f_9e4461b9",
+        "filename": "src/com/android/mms/ui/ConversationListItem.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-10-02T06:08:49Z",
+      "side": 1,
+      "message": "do we care about making a Log.e here?  maybe not worth it",
+      "revId": "f2a2e92c10227770cc7a13f1fbedd2866bc33ca3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
