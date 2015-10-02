@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f436f4f_5ea5d9b4",
+        "filename": "res/layout/quickmessage_content.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1448
+      },
+      "writtenOn": "2015-10-02T04:18:00Z",
+      "side": 1,
+      "message": "These should be externalized. But I\u0027m ok with doing that in a future patch. I see hardcoded colors all over the place.",
+      "range": {
+        "startLine": 42,
+        "startChar": 32,
+        "endLine": 42,
+        "endChar": 38
+      },
+      "revId": "4b60468a556981bfb0ff34b9eb8a859de0427db0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
