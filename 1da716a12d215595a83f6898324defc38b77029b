@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f287b81_22d0b650",
+        "filename": "src/com/android/mms/ui/ConversationList.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1452,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-10-07T03:39:18Z",
+      "side": 1,
+      "message": "Is there an available constant you can use?",
+      "revId": "1da716a12d215595a83f6898324defc38b77029b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f287b81_02c5ba8e",
+        "filename": "src/com/android/mms/ui/ConversationList.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1454,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-10-07T03:39:18Z",
+      "side": 1,
+      "message": "you can probably replace these two lines and the moveToNext() line below with while(cursor.moveToNext())",
+      "revId": "1da716a12d215595a83f6898324defc38b77029b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f287b81_42cbc2a4",
+        "filename": "src/com/android/mms/ui/ConversationList.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1463,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-10-07T03:39:18Z",
+      "side": 1,
+      "message": "maybe could stick this in a finally{} block, but should be ok like this",
+      "revId": "1da716a12d215595a83f6898324defc38b77029b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
