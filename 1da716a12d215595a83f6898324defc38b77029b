@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "7f287b81_02f81ac2",
+        "filename": "src/com/android/mms/ui/ConversationList.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1452,
+      "author": {
+        "id": 14113
+      },
+      "writtenOn": "2015-10-07T03:53:13Z",
+      "side": 1,
+      "message": "Conversation.java has UNREAD_MESSAGE_COUNT defined, but it\u0027s private, should I make it public?",
+      "parentUuid": "7f287b81_22d0b650",
+      "revId": "1da716a12d215595a83f6898324defc38b77029b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7f287b81_02c5ba8e",
         "filename": "src/com/android/mms/ui/ConversationList.java",
         "patchSetId": 1
