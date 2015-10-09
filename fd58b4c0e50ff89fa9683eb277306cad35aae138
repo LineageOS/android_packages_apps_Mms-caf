@@ -34,6 +34,24 @@
       "revId": "fd58b4c0e50ff89fa9683eb277306cad35aae138",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f287b81_3804667b",
+        "filename": "res/values/customize.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-10-09T00:01:48Z",
+      "side": 1,
+      "message": "By putting -1 here we preserve the existing behavior for all devices, which is \"not set\".  Then in the vendor overlay we can customize it based on the request of the partner.",
+      "parentUuid": "7f287b81_d86202d9",
+      "revId": "fd58b4c0e50ff89fa9683eb277306cad35aae138",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
