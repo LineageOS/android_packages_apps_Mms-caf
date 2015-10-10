@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f287b81_4939a23f",
+        "filename": "src/com/android/mms/ui/ConversationList.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1455,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-10-10T00:26:30Z",
+      "side": 1,
+      "message": "I wonder what the impact of doing this on the UI thread would be",
+      "revId": "3f0b019a86ea98c3a4a5fdf35ae1ffa4c980dcaf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
