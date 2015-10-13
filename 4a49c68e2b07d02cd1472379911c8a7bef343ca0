@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f287b81_03600bce",
+        "filename": "src/com/android/mms/blacklist/BlockCallerDialogFragment.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 14113
+      },
+      "writtenOn": "2015-10-13T22:11:36Z",
+      "side": 1,
+      "message": "Is Truecaller the only provider we are supporting right now? Shouldn\u0027t we check to see if Turecaller is installed/enabled and if not, not display the checkBox?",
+      "range": {
+        "startLine": 54,
+        "startChar": 15,
+        "endLine": 54,
+        "endChar": 28
+      },
+      "revId": "4a49c68e2b07d02cd1472379911c8a7bef343ca0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
