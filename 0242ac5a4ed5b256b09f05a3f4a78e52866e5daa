@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f287b81_b545e619",
+        "filename": "src/com/android/mms/ui/MessageListAdapter.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 296,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-15T03:50:44Z",
+      "side": 1,
+      "message": "why don\u0027t you lump this in w/ the if condition that already exists below",
+      "range": {
+        "startLine": 292,
+        "startChar": 8,
+        "endLine": 296,
+        "endChar": 9
+      },
+      "revId": "0242ac5a4ed5b256b09f05a3f4a78e52866e5daa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
