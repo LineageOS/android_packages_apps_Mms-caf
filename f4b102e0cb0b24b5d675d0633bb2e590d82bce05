@@ -1,0 +1,90 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f287b81_f5092edd",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-15T04:17:26Z",
+      "side": 1,
+      "message": "double negatives are confusing .. \"initialized with null context\" or sth like that",
+      "range": {
+        "startLine": 13,
+        "startChar": 16,
+        "endLine": 13,
+        "endChar": 58
+      },
+      "revId": "f4b102e0cb0b24b5d675d0633bb2e590d82bce05",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f287b81_75709e73",
+        "filename": "src/com/android/mms/ui/ManageSimMessages.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 148,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-15T04:17:26Z",
+      "side": 1,
+      "message": "here and below there are too many new lines introduced , clean them up",
+      "revId": "f4b102e0cb0b24b5d675d0633bb2e590d82bce05",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f287b81_556da296",
+        "filename": "src/com/android/mms/ui/ManageSimMessages.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 221,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-15T04:17:26Z",
+      "side": 1,
+      "message": "same comment as above ^^",
+      "range": {
+        "startLine": 215,
+        "startChar": 0,
+        "endLine": 221,
+        "endChar": 36
+      },
+      "revId": "f4b102e0cb0b24b5d675d0633bb2e590d82bce05",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f287b81_356a1680",
+        "filename": "src/com/android/mms/ui/MessageListAdapter.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 293,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-15T04:17:26Z",
+      "side": 1,
+      "message": "use new lines to separate out logical bits of code that are related , there is no point in leaving the managedTimeInstance flag on its own line",
+      "range": {
+        "startLine": 291,
+        "startChar": 7,
+        "endLine": 293,
+        "endChar": 14
+      },
+      "revId": "f4b102e0cb0b24b5d675d0633bb2e590d82bce05",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
