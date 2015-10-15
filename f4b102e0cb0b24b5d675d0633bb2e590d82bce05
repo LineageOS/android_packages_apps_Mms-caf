@@ -59,6 +59,24 @@
     },
     {
       "key": {
+        "uuid": "7f287b81_fb647fbb",
+        "filename": "src/com/android/mms/ui/ManageSimMessages.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 214,
+      "author": {
+        "id": 14113
+      },
+      "writtenOn": "2015-10-15T20:36:47Z",
+      "side": 1,
+      "message": "A non-null looper is required to create PrettyTime with non-null context. With a null context, PrettyTime() generates an exception.",
+      "parentUuid": "7f287b81_1514ba9f",
+      "revId": "f4b102e0cb0b24b5d675d0633bb2e590d82bce05",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7f287b81_556da296",
         "filename": "src/com/android/mms/ui/ManageSimMessages.java",
         "patchSetId": 3
