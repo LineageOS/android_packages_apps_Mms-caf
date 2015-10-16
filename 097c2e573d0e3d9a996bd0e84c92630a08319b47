@@ -45,6 +45,30 @@
       "revId": "097c2e573d0e3d9a996bd0e84c92630a08319b47",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f287b81_46a8561e",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 4150,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-10-16T21:20:20Z",
+      "side": 0,
+      "message": "Calling clear changes the text which calls this callback again. granted the conditionals check etc.. then calling append calls it yet another time.  Whereas using replace just calls it once.  I also felt it needed to be cleaned up and more readable than it currently is.\n\n    Checking the bytes are necessary b/c emoticons are 2 bytes each and I think the subject may be limited to bytes on the network or something (that I\u0027m not sure).  The way this works is say you enter in a max number of emoticons.  Then each new one you press will replace the end one so it actually feels kinda nice.  However, I doubt anyone will every care about that.",
+      "parentUuid": "7f287b81_069a4e13",
+      "range": {
+        "startLine": 4150,
+        "startChar": 25,
+        "endLine": 4150,
+        "endChar": 65
+      },
+      "revId": "097c2e573d0e3d9a996bd0e84c92630a08319b47",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
