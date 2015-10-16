@@ -45,6 +45,29 @@
       "revId": "2e893bec2ba1da13f3ae2b40fcd889c9a34f6fc6",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f287b81_c182f04f",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 4152,
+      "author": {
+        "id": 14113
+      },
+      "writtenOn": "2015-10-16T11:37:04Z",
+      "side": 1,
+      "message": "why not simply use text.substring(0, SUBJECT_MAX_LENGTH-1) ?",
+      "range": {
+        "startLine": 4152,
+        "startChar": 60,
+        "endLine": 4152,
+        "endChar": 61
+      },
+      "revId": "2e893bec2ba1da13f3ae2b40fcd889c9a34f6fc6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
