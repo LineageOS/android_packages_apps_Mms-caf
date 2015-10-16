@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f287b81_66fd9239",
+        "filename": "res/layout/compose_message_activity.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-16T06:16:57Z",
+      "side": 1,
+      "message": "not needed , InputFilters are already set programatically based on MmsConfig.",
+      "range": {
+        "startLine": 74,
+        "startChar": 20,
+        "endLine": 74,
+        "endChar": 42
+      },
+      "revId": "2e893bec2ba1da13f3ae2b40fcd889c9a34f6fc6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f287b81_46fa9642",
+        "filename": "res/layout/compose_message_activity.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-16T06:16:57Z",
+      "side": 1,
+      "message": "any reason we are removing suggestions ?",
+      "range": {
+        "startLine": 75,
+        "startChar": 20,
+        "endLine": 75,
+        "endChar": 57
+      },
+      "revId": "2e893bec2ba1da13f3ae2b40fcd889c9a34f6fc6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

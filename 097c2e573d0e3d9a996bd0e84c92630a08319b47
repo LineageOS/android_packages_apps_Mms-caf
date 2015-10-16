@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f287b81_26954ae5",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 4144,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-16T06:16:57Z",
+      "side": 0,
+      "message": "-",
+      "range": {
+        "startLine": 4144,
+        "startChar": 16,
+        "endLine": 4144,
+        "endChar": 66
+      },
+      "revId": "097c2e573d0e3d9a996bd0e84c92630a08319b47",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f287b81_069a4e13",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 4150,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-16T06:16:57Z",
+      "side": 0,
+      "message": "isn\u0027t the problem that we are looking at byte length , but substring-\u0027ing\u0027 on the character length ? SUBJECT_MAX_LENGTH is defined to be the number of chars allowed on the subject. Why don\u0027t we just change the check above to be the char length rather than the byte length?",
+      "range": {
+        "startLine": 4150,
+        "startChar": 25,
+        "endLine": 4150,
+        "endChar": 65
+      },
+      "revId": "097c2e573d0e3d9a996bd0e84c92630a08319b47",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
