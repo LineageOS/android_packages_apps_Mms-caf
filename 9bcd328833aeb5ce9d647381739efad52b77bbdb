@@ -22,6 +22,30 @@
       "revId": "9bcd328833aeb5ce9d647381739efad52b77bbdb",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f287b81_2ca1abaa",
+        "filename": "src/com/android/mms/blacklist/BlockCallerDialogFragment.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-10-17T00:52:08Z",
+      "side": 1,
+      "message": "woops forgot to remove that comment, will remove before submit",
+      "parentUuid": "7f287b81_8ce3ff05",
+      "range": {
+        "startLine": 54,
+        "startChar": 11,
+        "endLine": 54,
+        "endChar": 41
+      },
+      "revId": "9bcd328833aeb5ce9d647381739efad52b77bbdb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
