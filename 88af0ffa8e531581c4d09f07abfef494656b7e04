@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f287b81_d98e682d",
+        "filename": "src/com/android/mms/presenters/TextPresenter.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-17T04:56:51Z",
+      "side": 1,
+      "message": "We\u0027d have to come up w/ a diff approach for this one.\n\n\nThe mContext of this class should have been a ref to the activity hosting this presenter and the corresponding views. But this mContext actually refers to the Application context. \n\n\nWe need to fix this by passing in the correct Activity Context to this and the other presenters, rather than involving the Application class. Otherwise, we would be creating a dependency on the Application class.\n\n\nAlso, the lifecycle of the Application class is different from that of the Activity, so we need be weary of holding references to the Activity within the Application class",
+      "range": {
+        "startLine": 107,
+        "startChar": 12,
+        "endLine": 107,
+        "endChar": 90
+      },
+      "revId": "88af0ffa8e531581c4d09f07abfef494656b7e04",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
