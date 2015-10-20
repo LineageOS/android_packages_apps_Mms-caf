@@ -1,0 +1,67 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f2577a7_3c21fda0",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 10
+      },
+      "lineNbr": 5735,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-20T22:41:18Z",
+      "side": 1,
+      "message": "there could be multiple checked items so getCheckedItemPosition() \u0027s value will be invalid\n\n    /**\n     * Returns the currently checked item. The result is only valid if the choice\n     * mode has been set to {@link #CHOICE_MODE_SINGLE}.\n     *\n     * @return The position of the currently checked item or\n     *         {@link #INVALID_POSITION} if nothing is selected\n     *\n     * @see #setChoiceMode(int)\n     */\n    public int getCheckedItemPosition() {\n        if (mChoiceMode \u003d\u003d CHOICE_MODE_SINGLE \u0026\u0026 mCheckStates !\u003d null \u0026\u0026 mCheckStates.size() \u003d\u003d 1) {\n            return mCheckStates.keyAt(0);\n        }\n\n        return INVALID_POSITION;\n    }",
+      "range": {
+        "startLine": 5735,
+        "startChar": 58,
+        "endLine": 5735,
+        "endChar": 96
+      },
+      "revId": "fb6e9afac4e05a848b50fcacd72f01b0d01e5fdb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f2577a7_9c18f175",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 10
+      },
+      "lineNbr": 5740,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-20T22:41:18Z",
+      "side": 1,
+      "message": "this logic is duplicated b/w here and onItemCheckedStateChanged..it\u0027ll be cleaner if you extract this out into its own function that both places call",
+      "range": {
+        "startLine": 5734,
+        "startChar": 12,
+        "endLine": 5740,
+        "endChar": 13
+      },
+      "revId": "fb6e9afac4e05a848b50fcacd72f01b0d01e5fdb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f2577a7_1c0d2137",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 10
+      },
+      "lineNbr": 6029,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-20T22:41:18Z",
+      "side": 1,
+      "message": "redundant empty lines here and above",
+      "revId": "fb6e9afac4e05a848b50fcacd72f01b0d01e5fdb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
