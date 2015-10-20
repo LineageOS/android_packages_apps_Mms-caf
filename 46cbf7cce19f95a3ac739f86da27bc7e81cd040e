@@ -1,0 +1,61 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f2577a7_1c740199",
+        "filename": "src/com/android/mms/presenters/TextPresenter.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-20T23:18:37Z",
+      "side": 1,
+      "message": "empty lines",
+      "revId": "46cbf7cce19f95a3ac739f86da27bc7e81cd040e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f2577a7_7c754598",
+        "filename": "src/com/android/mms/presenters/TextPresenter.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-20T23:18:37Z",
+      "side": 1,
+      "message": "empty lines",
+      "revId": "46cbf7cce19f95a3ac739f86da27bc7e81cd040e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f2577a7_7c830558",
+        "filename": "src/com/android/mms/presenters/TextPresenter.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 89,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-20T23:18:37Z",
+      "side": 1,
+      "message": "this comment isn\u0027t applicable anymore",
+      "range": {
+        "startLine": 89,
+        "startChar": 11,
+        "endLine": 89,
+        "endChar": 91
+      },
+      "revId": "46cbf7cce19f95a3ac739f86da27bc7e81cd040e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
