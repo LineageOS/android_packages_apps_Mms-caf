@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f2577a7_81bd2a6a",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 3245,
+      "author": {
+        "id": 14113
+      },
+      "writtenOn": "2015-10-20T21:48:26Z",
+      "side": 1,
+      "message": "Why not just pass the number (not convert to String []) and do the conversion inside confirmBlockUsersFromThreads; otherwise, without looking at the implementation of confirmBlockUsersFromThreads, it\u0027s not clear why number is being converted to String [].",
+      "revId": "309e52b7037b09d5e6275a5eb7a47fba5fa3cceb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
