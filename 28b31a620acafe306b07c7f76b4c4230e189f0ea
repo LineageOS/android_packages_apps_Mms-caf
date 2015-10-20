@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f2577a7_f0e5de0b",
+        "filename": "src/com/android/mms/MmsApp.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 350,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-10-20T00:53:15Z",
+      "side": 1,
+      "message": "Can probably just drop the changes to this file from the patch",
+      "revId": "28b31a620acafe306b07c7f76b4c4230e189f0ea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f2577a7_d0e2e201",
+        "filename": "src/com/android/mms/presenters/TextPresenter.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-10-20T00:53:15Z",
+      "side": 1,
+      "message": "Why final?",
+      "revId": "28b31a620acafe306b07c7f76b4c4230e189f0ea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f2577a7_b0ef56e8",
+        "filename": "src/com/android/mms/util/PduLoaderManager.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 162,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-10-20T00:53:15Z",
+      "side": 1,
+      "message": "may need to throw npe here for activityContext?",
+      "revId": "28b31a620acafe306b07c7f76b4c4230e189f0ea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
