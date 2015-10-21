@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "5f2577a7_8219a889",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 10
+      },
+      "lineNbr": 5735,
+      "author": {
+        "id": 14113
+      },
+      "writtenOn": "2015-10-21T23:50:11Z",
+      "side": 1,
+      "message": "customMenuVisibility() function ignores position if multiple items are selected",
+      "parentUuid": "5f2577a7_3c21fda0",
+      "range": {
+        "startLine": 5735,
+        "startChar": 58,
+        "endLine": 5735,
+        "endChar": 96
+      },
+      "revId": "fb6e9afac4e05a848b50fcacd72f01b0d01e5fdb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5f2577a7_9c18f175",
         "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
         "patchSetId": 10
