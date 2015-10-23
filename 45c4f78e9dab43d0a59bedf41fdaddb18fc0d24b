@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f2577a7_6f3580f7",
+        "filename": "src/com/android/mms/ui/ConversationList.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 366,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-23T23:08:53Z",
+      "side": 1,
+      "message": "you need SparseBooleanArray#keyAt , not get()\n\n#get does a #valueAt() , which will always return true , as this is a SBA of checked items, so values are always true\n\nyou need the keys which are the positions of the checked items",
+      "range": {
+        "startLine": 366,
+        "startChar": 58,
+        "endLine": 366,
+        "endChar": 64
+      },
+      "revId": "45c4f78e9dab43d0a59bedf41fdaddb18fc0d24b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
