@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f2577a7_0a0f0a2f",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 3227,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-23T23:20:34Z",
+      "side": 1,
+      "message": "doesn\u0027t compile",
+      "range": {
+        "startLine": 3227,
+        "startChar": 45,
+        "endLine": 3227,
+        "endChar": 51
+      },
+      "revId": "c325369a01b2f30d56f58395b7131c9e9bc8ce98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f2577a7_2a12c659",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 3231,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-23T23:20:34Z",
+      "side": 1,
+      "message": "^",
+      "range": {
+        "startLine": 3231,
+        "startChar": 86,
+        "endLine": 3231,
+        "endChar": 93
+      },
+      "revId": "c325369a01b2f30d56f58395b7131c9e9bc8ce98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f2577a7_4a0d1236",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 3232,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-23T23:20:34Z",
+      "side": 1,
+      "message": "ORIGIN code isn\u0027t CONTACT_CARD. CONTACT_CARD was meant to be from the ContactDetailActivity in DialerNext. You\u0027ll have to add one for MMS.",
+      "range": {
+        "startLine": 3232,
+        "startChar": 62,
+        "endLine": 3232,
+        "endChar": 107
+      },
+      "revId": "c325369a01b2f30d56f58395b7131c9e9bc8ce98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
