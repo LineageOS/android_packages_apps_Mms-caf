@@ -22,6 +22,30 @@
       "revId": "45c4f78e9dab43d0a59bedf41fdaddb18fc0d24b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f2577a7_85f40d5d",
+        "filename": "src/com/android/mms/ui/ConversationList.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 366,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-10-24T21:21:48Z",
+      "side": 1,
+      "message": "ok, I saw your code on the other one and you are using value at for marking it as true  you are passing keyat and valueat\n\n        customMenuVisibility(mode, checkedCount, checkedList.keyAt(i),\n                            checkedList.valueAt(i));\n\nI\u0027m not dealing with the same function, just need to know which ones to check.  Alternatively I can iterate the keyset and just set true to those values",
+      "parentUuid": "5f2577a7_6f3580f7",
+      "range": {
+        "startLine": 366,
+        "startChar": 58,
+        "endLine": 366,
+        "endChar": 64
+      },
+      "revId": "45c4f78e9dab43d0a59bedf41fdaddb18fc0d24b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
