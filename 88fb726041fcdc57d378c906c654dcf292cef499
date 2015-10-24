@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f2577a7_e54751bc",
+        "filename": "src/com/android/mms/ui/ConversationList.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 247,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-10-24T19:51:23Z",
+      "side": 1,
+      "message": "May want to check if mListAdapter !\u003d null since we are in a callback scope.  Also extra semi colon",
+      "revId": "88fb726041fcdc57d378c906c654dcf292cef499",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f2577a7_c54455ba",
+        "filename": "src/com/android/mms/ui/ConversationList.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 377,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-10-24T19:51:23Z",
+      "side": 1,
+      "message": "extra spacing",
+      "revId": "88fb726041fcdc57d378c906c654dcf292cef499",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
