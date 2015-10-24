@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f2577a7_2a3be6d1",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-24T01:37:44Z",
+      "side": 1,
+      "message": "typo .. also you might want to generalize this comment to include any modification to a Contact (update or delete)",
+      "range": {
+        "startLine": 7,
+        "startChar": 34,
+        "endLine": 7,
+        "endChar": 42
+      },
+      "revId": "c123ac5cedc1b8aa568ce7443105e82e765012a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f2577a7_8a09bade",
+        "filename": "src/com/android/mms/data/Contact.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 227,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-24T01:37:44Z",
+      "side": 1,
+      "message": "maybe move this comment to where InvalidateListener interface is defined ?",
+      "range": {
+        "startLine": 225,
+        "startChar": 8,
+        "endLine": 227,
+        "endChar": 79
+      },
+      "revId": "c123ac5cedc1b8aa568ce7443105e82e765012a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f2577a7_4a13d20e",
+        "filename": "src/com/android/mms/data/Contact.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 228,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-24T01:37:44Z",
+      "side": 1,
+      "message": "this identifier isn\u0027t an iterator",
+      "range": {
+        "startLine": 228,
+        "startChar": 36,
+        "endLine": 228,
+        "endChar": 44
+      },
+      "revId": "c123ac5cedc1b8aa568ce7443105e82e765012a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f2577a7_8a32daa6",
+        "filename": "src/com/android/mms/data/Contact.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 229,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-24T01:37:44Z",
+      "side": 1,
+      "message": "synchronizing on the wrong listeners .. should be mInvalidateListeners",
+      "range": {
+        "startLine": 229,
+        "startChar": 22,
+        "endLine": 229,
+        "endChar": 32
+      },
+      "revId": "c123ac5cedc1b8aa568ce7443105e82e765012a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f2577a7_eaef1ee7",
+        "filename": "src/com/android/mms/data/Contact.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 230,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-10-24T01:37:44Z",
+      "side": 1,
+      "message": "you can directly reference mInvalidateListeners\nalso, space after the closing cast-parenthesis",
+      "range": {
+        "startLine": 230,
+        "startChar": 52,
+        "endLine": 230,
+        "endChar": 80
+      },
+      "revId": "c123ac5cedc1b8aa568ce7443105e82e765012a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
