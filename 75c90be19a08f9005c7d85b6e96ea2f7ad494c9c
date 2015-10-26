@@ -16,6 +16,24 @@
       "revId": "75c90be19a08f9005c7d85b6e96ea2f7ad494c9c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f2577a7_3e3e8729",
+        "filename": "src/com/android/mms/ui/MessageItem.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 203,
+      "author": {
+        "id": 14113
+      },
+      "writtenOn": "2015-10-26T22:12:22Z",
+      "side": 1,
+      "message": "I only kept the variable so that it would be clearer what is being passed to the formatTimeStampString(), without having to look at the function definition. If the consensus is that we should simply pass \u0027true\u0027, the I am fine with that as well.",
+      "parentUuid": "5f2577a7_4512a5b3",
+      "revId": "75c90be19a08f9005c7d85b6e96ea2f7ad494c9c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
