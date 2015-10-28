@@ -16,6 +16,24 @@
       "revId": "e7bc922215cf89c195fb510f162f34149b056389",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f2577a7_e713cbb7",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 585,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-10-28T06:55:29Z",
+      "side": 1,
+      "message": "no, because I don\u0027t want to show a dialog here.  I never show it, but I need it in order to not cause an NPE.  Alternatively I could do a null check in the callback.",
+      "parentUuid": "5f2577a7_8782c74e",
+      "revId": "e7bc922215cf89c195fb510f162f34149b056389",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
