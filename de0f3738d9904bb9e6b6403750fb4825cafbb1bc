@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f2577a7_262e6843",
+        "filename": "src/com/android/mms/ui/ConversationList.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 457,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-10-30T05:53:58Z",
+      "side": 1,
+      "message": "probably don\u0027t need this else block anymore unless we want to keep it just for the log",
+      "revId": "de0f3738d9904bb9e6b6403750fb4825cafbb1bc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f2577a7_06336cad",
+        "filename": "src/com/android/mms/ui/MessagingPreferenceActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 161,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-10-30T05:53:58Z",
+      "side": 1,
+      "message": "Is this intended on being used?",
+      "revId": "de0f3738d9904bb9e6b6403750fb4825cafbb1bc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
