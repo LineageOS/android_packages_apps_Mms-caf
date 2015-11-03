@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f2f7f8d_ae4ed7be",
+        "filename": "src/com/android/mms/ui/ConversationListItem.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 313,
+      "author": {
+        "id": 14113
+      },
+      "writtenOn": "2015-11-03T03:16:08Z",
+      "side": 1,
+      "message": "How is this solving the problem? onUpdate is only received when a contact is edited/deleted from the Contacts. The problem here seems to be with RecycledView not redrawing the badge/avatar.",
+      "revId": "de1ed630b929aeaa1a46bedebb2afabac8eb2237",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
