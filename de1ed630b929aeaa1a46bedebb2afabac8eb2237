@@ -16,6 +16,24 @@
       "revId": "de1ed630b929aeaa1a46bedebb2afabac8eb2237",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f2f7f8d_4ecbf31d",
+        "filename": "src/com/android/mms/ui/ConversationListItem.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 313,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-11-04T01:53:42Z",
+      "side": 1,
+      "message": "The override isn\u0027t solving the problem, it is just syntactically correct.\n\nIf every list item registers itself as an Update listener they will be updating for any contact that gets updated.  And since this stops the contact from being redrawn several times, it only redraws if it needs to.",
+      "parentUuid": "1f2f7f8d_ae4ed7be",
+      "revId": "de1ed630b929aeaa1a46bedebb2afabac8eb2237",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
