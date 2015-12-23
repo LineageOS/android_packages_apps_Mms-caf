@@ -46,6 +46,30 @@
       "revId": "128cae7bf5f833f8ab8886c792cd654f3044a92c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f7f9b97_0bf60d91",
+        "filename": "src/com/android/mms/transaction/MessagingNotification.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 498,
+      "author": {
+        "id": 10
+      },
+      "writtenOn": "2015-12-23T05:07:02Z",
+      "side": 1,
+      "message": "Force of habit. anything public gets @hidden, I already have a full constellation of quailstars",
+      "parentUuid": "7f7f9b97_309ed807",
+      "range": {
+        "startLine": 498,
+        "startChar": 6,
+        "endLine": 498,
+        "endChar": 12
+      },
+      "revId": "128cae7bf5f833f8ab8886c792cd654f3044a92c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
