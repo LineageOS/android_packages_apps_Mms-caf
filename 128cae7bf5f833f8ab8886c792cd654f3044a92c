@@ -22,6 +22,30 @@
       "revId": "128cae7bf5f833f8ab8886c792cd654f3044a92c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f7f9b97_309ed807",
+        "filename": "src/com/android/mms/transaction/MessagingNotification.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 498,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-12-23T02:36:23Z",
+      "side": 1,
+      "message": "Its not really even needed.",
+      "parentUuid": "7f7f9b97_f002a03e",
+      "range": {
+        "startLine": 498,
+        "startChar": 6,
+        "endLine": 498,
+        "endChar": 12
+      },
+      "revId": "128cae7bf5f833f8ab8886c792cd654f3044a92c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
