@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ffb9cba7_c8ff60ff",
+        "filename": "res/xml/preferences.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 279,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2016-03-10T07:26:25Z",
+      "side": 1,
+      "message": "Spaces instead of tabs",
+      "revId": "b2aff1abe5909aa06d4a2c9915af8cb774e1ac5a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ffb9cba7_2d03ae11",
+        "filename": "src/com/android/mms/ui/MessagingPreferenceActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 388,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2016-03-10T07:26:25Z",
+      "side": 1,
+      "message": "Spaces instead of tabs",
+      "revId": "b2aff1abe5909aa06d4a2c9915af8cb774e1ac5a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
