@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ffb9cba7_e34fe58f",
+        "filename": "res/values/config.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2016-03-11T07:37:43Z",
+      "side": 1,
+      "message": "Usually good practice to append-to-end (helps in merges to other branches and such)",
+      "revId": "875eaa068c5f55122a7a043eaada72f4518c142e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ffb9cba7_43603102",
+        "filename": "src/com/android/mms/ui/MessagingPreferenceActivity.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 386,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2016-03-11T07:37:43Z",
+      "side": 1,
+      "message": "codestyle nitpick, indentation should be 4 spaces successively.\n\nif (foo) {\n    if (foo) {\n        bar;\n    }\n}\n\nlikewise this can be simplified to if (foo \u0026\u0026 bar)",
+      "range": {
+        "startLine": 381,
+        "startChar": 0,
+        "endLine": 386,
+        "endChar": 9
+      },
+      "revId": "875eaa068c5f55122a7a043eaada72f4518c142e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
