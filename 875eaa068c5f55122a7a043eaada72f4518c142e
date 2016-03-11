@@ -19,6 +19,40 @@
     },
     {
       "key": {
+        "uuid": "ffb9cba7_8346297c",
+        "filename": "src/com/android/mms/ui/MessagingPreferenceActivity.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 382,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2016-03-11T07:38:04Z",
+      "side": 1,
+      "message": "brace should be on line before",
+      "revId": "875eaa068c5f55122a7a043eaada72f4518c142e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ffb9cba7_a349ed8b",
+        "filename": "src/com/android/mms/ui/MessagingPreferenceActivity.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 383,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2016-03-11T07:38:04Z",
+      "side": 1,
+      "message": "Improper indentations",
+      "revId": "875eaa068c5f55122a7a043eaada72f4518c142e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ffb9cba7_43603102",
         "filename": "src/com/android/mms/ui/MessagingPreferenceActivity.java",
         "patchSetId": 5
