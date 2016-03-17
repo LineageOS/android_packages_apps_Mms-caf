@@ -46,6 +46,23 @@
       "revId": "d7bb265fbc17da4b17f2f7157afc2a266ae7e700",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7faddb67_b59aca6b",
+        "filename": "src/com/android/mms/ui/MessagingPreferenceActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 574,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2016-03-17T21:49:41Z",
+      "side": 1,
+      "message": "soundUri can be null here",
+      "revId": "d7bb265fbc17da4b17f2f7157afc2a266ae7e700",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
