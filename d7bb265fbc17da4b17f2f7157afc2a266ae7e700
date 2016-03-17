@@ -49,6 +49,30 @@
     },
     {
       "key": {
+        "uuid": "7faddb67_758e922f",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 816,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2016-03-17T21:53:09Z",
+      "side": 1,
+      "message": "\u0027Strings\u0027 are usually user facing. This sounds more like a config we would want to override. \n\nIf this stays in strings, at the least, set translateable\u003dfalse.",
+      "parentUuid": "7faddb67_15595efd",
+      "range": {
+        "startLine": 816,
+        "startChar": 4,
+        "endLine": 816,
+        "endChar": 86
+      },
+      "revId": "d7bb265fbc17da4b17f2f7157afc2a266ae7e700",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7faddb67_b59aca6b",
         "filename": "src/com/android/mms/ui/MessagingPreferenceActivity.java",
         "patchSetId": 2
