@@ -22,6 +22,30 @@
       "revId": "d7bb265fbc17da4b17f2f7157afc2a266ae7e700",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7faddb67_15595efd",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 816,
+      "author": {
+        "id": 14096
+      },
+      "writtenOn": "2016-03-17T21:34:46Z",
+      "side": 1,
+      "message": "I defined this as a string, so that we can overlay the string with a ringtone filename. Also Preferences treat the defaultValue in preferences as strings.",
+      "parentUuid": "7faddb67_fa7271e3",
+      "range": {
+        "startLine": 816,
+        "startChar": 4,
+        "endLine": 816,
+        "endChar": 86
+      },
+      "revId": "d7bb265fbc17da4b17f2f7157afc2a266ae7e700",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
