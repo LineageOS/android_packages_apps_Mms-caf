@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7faddb67_fa7271e3",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 816,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2016-03-17T21:30:13Z",
+      "side": 1,
+      "message": "why is this a string?",
+      "range": {
+        "startLine": 816,
+        "startChar": 4,
+        "endLine": 816,
+        "endChar": 86
+      },
+      "revId": "d7bb265fbc17da4b17f2f7157afc2a266ae7e700",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
